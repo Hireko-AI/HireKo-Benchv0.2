@@ -81,9 +81,9 @@ For detailed documentation on dataset generation, recipe design, and scoring rul
 ## 🌐 Platform & Product
 * **Product:** [HireKo](https://usehireko.com) — AI Technical Evaluator
 * **Playground Console:** [usehireko.com/console.html](https://usehireko.com/console.html)
-* **Organization:** [github.com/hireko](https://github.com/hireko)
+* **Organization:** [github.com/hireko](https://github.com/Hireko-AI)
 
 ---
 
 ## 📄 License
-This benchmark dataset, evaluation runner, and scoring scripts are released under the [Apache License 2.0](LICENSE).
+This benchmark dataset, evaluation runner, and scoring scripts are released under the [MIT License](LICENSE).
