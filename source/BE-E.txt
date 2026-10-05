@@ -1,0 +1,81 @@
+=====
+@id BE-E-01
+@trap Explicit disclaimers. Redis: "have not used in production". CI/CD: describes triggering deploys owned by a platform team. The real skills (Python, FastAPI, PostgreSQL, Docker) are genuine, so the negations must not contaminate them.
+@gold Python=D; FastAPI=D; PostgreSQL=D; Docker=D; Redis=N; CI/CD=M*
+---
+# Ishaan Malhotra
+Delhi, India | ishaan.malhotra@example.com
+
+## Experience
+### Backend Developer, Gridwise (2021 - Present)
+- Own the tariff-calculation service in Python with FastAPI: 11 endpoints, async database access, and a nightly job that recalculates tariffs for about 90,000 meters.
+- Designed the PostgreSQL schema for time-of-day tariffs and wrote the migration that backfilled 3 years of readings with no downtime.
+- Wrote the Dockerfile and Compose setup for the service; the same image runs in staging and production.
+- The CI/CD pipeline is owned by our platform team. I merge to main and trigger the production deploy from their tool, but I have never written or modified the pipeline.
+- I have not used Redis in production; our team has no caching layer today and I have only read about it.
+
+## Education
+B.Tech, Computer Science, Delhi Technological University, 2021
+=====
+@id BE-E-02
+@trap Near-miss technologies. Candidate has strong Python and CI/CD but uses Flask (not FastAPI), MySQL (not PostgreSQL), Podman (Docker-compatible alternative) and Memcached (not Redis). Tests alias over-matching versus genuine equivalence.
+@gold Python=D; FastAPI=N; PostgreSQL=N; Docker=N*; Redis=N; CI/CD=D
+---
+# Tarun Khanna
+Jaipur, India | tarun.khanna@example.com
+
+## Experience
+### Senior Developer, Rajputana Digital (2017 - Present)
+- Lead developer of a Python and Flask booking engine for 300 hotels; handles about 40,000 booking requests a day.
+- Moved the booking database on MySQL 5.7 to 8.0 and rewrote the 10 heaviest queries.
+- Added Memcached in front of the room-availability lookups, which cut average response time from 600 ms to 140 ms.
+- Run the services in rootless containers with Podman on RHEL hosts, because our infosec team does not allow the Docker daemon.
+- Built the GitLab CI pipeline: lint, unit tests, integration tests against a throwaway database, image build, and a tagged release job. Release time fell from half a day to 25 minutes.
+
+## Education
+B.Tech, Information Technology, Malaviya National Institute of Technology, 2016
+=====
+@id BE-E-03
+@trap "Currently learning" FastAPI, a two-day Redis spike that was not adopted, and shadowing on Docker. CI/CD is absent. Python and PostgreSQL are real. Tests that learning, evaluating and shadowing statements get capped below Demonstrated.
+@gold Python=D; FastAPI=M; PostgreSQL=D; Docker=M; Redis=M*; CI/CD=N
+---
+# Neha Bansal
+Indore, India | neha.bansal@example.com
+
+## Summary
+Backend developer moving from Django to newer Python stacks.
+
+## Experience
+### Software Engineer, Lakshya Systems (2019 - Present)
+- Maintain a Django and Python claims-processing application used by 12 insurance branches; wrote the module that auto-assigns claims to adjusters, which removed about 200 manual assignments a week.
+- Optimized PostgreSQL reporting queries on the claims database and added a nightly materialized view for the branch dashboard.
+- Spent two days evaluating Redis as a cache for the adjuster dashboard; the team decided not to adopt it.
+- Shadowed a senior engineer during two Docker-based deployments to learn the process.
+
+## Learning
+- Currently completing an online FastAPI course (expected completion December 2026).
+
+## Education
+B.E., Computer Science, SGSITS Indore, 2019
+=====
+@id BE-E-04
+@trap Impossible or inconsistent claims. A 5-year career claims "12 years of Python", "9 years of FastAPI" (released in late 2018) and Docker expertise "since 2012" (Docker was released in 2013). Concrete bullets exist only for Python, PostgreSQL and CI/CD. The inflated claims for FastAPI and Docker have no supporting work.
+@gold Python=D; FastAPI=M; PostgreSQL=D; Docker=M; Redis=N; CI/CD=D
+---
+# Mohit Agarwal
+Lucknow, India | mohit.agarwal@example.com
+
+## Profile
+Backend expert with 12 years of Python, 9 years of FastAPI and Docker expertise since 2012. Trusted architect for mission-critical platforms.
+
+## Experience
+### Software Engineer, Veritas Cloudworks (2021 - Present)
+- Wrote Python ETL jobs that move 6 GB of supplier data per day into PostgreSQL; added retry logic that removed the weekly manual re-run.
+- Tuned a PostgreSQL reporting database by adding covering indexes; the dashboard load time fell from 20 seconds to 3.
+- Set up the Jenkins pipeline for three repositories (lint, tests, deploy to staging), replacing manual FTP uploads.
+
+### Intern, Veritas Cloudworks (2020 - 2021)
+- Helped with testing and documentation.
+
+## Education
+B.Tech, Computer Science, AKTU, 2020

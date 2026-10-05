@@ -1,0 +1,89 @@
+=====
+@id SL-A-01
+@trap Junior SDR with real outbound and Salesforce activity, but pipeline work is handed to AEs, MEDDICC is only an onboarding training, and no negotiation or forecasting. Tests that training exposure and handoff roles stay below hands-on execution.
+@gold Salesforce=D; Outbound prospecting=D; Pipeline management=M; MEDDICC=M; Contract negotiation=N; Sales forecasting=N
+---
+# Tanvi Oberoi
+Mumbai, India | tanvi.oberoi@example.com
+
+## Experience
+### Sales Development Representative, Cloudstitch (Feb 2024 - Present)
+- Run outbound prospecting to finance and operations leaders at mid-sized companies: about 70 personalised emails and 30 calls a day using a 6-touch cadence; booked 41 qualified meetings in the last two quarters (quota 36).
+- Log every call, email and meeting in Salesforce, and built two Salesforce reports (activity by account tier and meeting-to-opportunity conversion) that my manager uses in the weekly team review.
+- Hand qualified meetings to Account Executives; the AEs own the opportunity and the pipeline after the first call.
+- Completed the company's MEDDICC training during onboarding; the AEs apply it in their discovery calls.
+
+### Business Development Intern, Growthbeam (Jun 2023 - Jan 2024)
+- Researched leads and drafted outreach emails for the sales team.
+
+## Education
+BBA, Narsee Monjee Institute of Management Studies, 2023
+=====
+@id SL-A-02
+@trap Career changer (teacher) whose outreach experience is volunteer fundraising and whose CRM knowledge is a Trailhead badge and a HubSpot sales certification. Hands-on outreach is real but non-commercial. No SaaS sales, forecasting or negotiation experience.
+@gold Salesforce=M; Outbound prospecting=D*; Pipeline management=N; MEDDICC=N; Contract negotiation=N; Sales forecasting=N
+---
+# Deepa Narayanan
+Kolkata, India | deepa.narayanan@example.com
+
+## Summary
+Secondary-school teacher moving into B2B software sales after 9 years in education and community fundraising.
+
+## Experience
+### Fundraising Lead (volunteer), Vidya Foundation (2021 - 2024)
+- Cold-called and emailed 210 local businesses to sponsor scholarships; 38 agreed, raising 11.5 lakh rupees over three years.
+- Kept a shared sponsor tracker and followed up every two weeks.
+
+### Mathematics Teacher, St. Xavier's Collegiate School (2015 - Present)
+- Teach grades 9-12, coordinate the department's exam calendar, and mentor four new teachers.
+
+## Certifications and learning
+- Salesforce Trailhead: Admin Beginner and Sales Cloud badges (2024)
+- HubSpot Sales Software Certification (2024)
+- Currently taking an online B2B sales fundamentals course
+
+## Education
+M.Sc., Mathematics, Calcutta University, 2014
+=====
+@id SL-A-03
+@trap Sales manager who no longer sells. Currently runs team pipeline reviews and owns the team forecast (hands-on for those), and was an AE until 2020 (negotiation experience). Salesforce and MEDDICC are consumed or enforced at team level, not personally configured. No outbound for years.
+@gold Salesforce=M*; Outbound prospecting=N; Pipeline management=D; MEDDICC=M*; Contract negotiation=D; Sales forecasting=D
+---
+# Gaurav Bhatia
+Delhi NCR, India | gaurav.bhatia@example.com
+
+## Experience
+### Sales Manager, Mid-Market, Finserve Cloud (2020 - Present)
+- Manage 8 AEs with a combined pipeline of about 11 million USD; run a weekly pipeline review of every deal above 50,000 USD and agree next steps and exit criteria with each rep. Average sales cycle fell from 112 to 86 days under this process.
+- Own the team forecast: submit a weekly commit and best-case to the VP of Sales; accuracy against final bookings was within 6 percent for the last four quarters.
+- Join the final-round commercial negotiation on the largest deals, most recently a 3-year, 420,000 USD contract where we held the discount at 9 percent.
+- Reps use Salesforce dashboards that Sales Ops builds; I read them in reviews. Enforce MEDDICC fields in deal inspections.
+
+### Account Executive, Bluepeak Software (2015 - 2020)
+- Closed 1.1 million USD of new business per year on average, negotiating pricing and terms with procurement teams at banks and insurers.
+- Exceeded quota in 4 of 5 years.
+
+## Education
+MBA, Faculty of Management Studies, Delhi University, 2015
+=====
+@id SL-A-04
+@trap Strong working AE with a plain, terse, number-light resume (short fragments, informal). Tests false rejection of unpolished but concrete experience. Never produced a formal forecast (not in his role), so forecasting is absent.
+@gold Salesforce=D; Outbound prospecting=D; Pipeline management=D; MEDDICC=D; Contract negotiation=D; Sales forecasting=N
+---
+# Imran Sheikh
+Ahmedabad, India | imran.sheikh@example.com
+
+## sales experience
+### AE, Textura Software (2019 - now)
+- build my own pipeline, about half from outbound. cold calls + email to textile and apparel manufacturers, 20-25 new first meetings a month
+- closed 14 deals last year, avg deal 55k USD. biggest was 210k with a 14 month sales cycle
+- run every deal on MEDDICC, I keep economic buyer and champion in the salesforce opp notes. lost fewer deals to no decision after that
+- keep salesforce clean, opp stage and close date updated every friday
+- negotiate price and terms myself, usually with the CFO and procurement. gave max 10 percent discount on all deals last year
+- 100 pct of quota 2021, 2022, 2024; 84 pct in 2023
+
+### sales exec, Rangoli Ltd (2016 - 2019)
+- sold ERP modules to SMEs
+
+## education
+B.Com, Gujarat University, 2015

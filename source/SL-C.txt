@@ -1,0 +1,91 @@
+=====
+@id SL-C-01
+@trap Fully AI-polished and hollow. Polished verbs and em-dashes, impressive claims, but no customer, deal size, method, or personal action is named for any required skill.
+@gold Salesforce=M; Outbound prospecting=M; Pipeline management=M; MEDDICC=M; Contract negotiation=M; Sales forecasting=M
+---
+# Aarti Chopra
+Gurugram, India | aarti.chopra@example.com
+
+## Professional Summary
+Results-driven Account Executive with a proven track record of exceeding targets — passionate about building lasting client relationships and driving revenue growth.
+
+## Professional Experience
+### Account Executive, Brightwave Software (2019 - Present)
+- Leveraged Salesforce to streamline sales operations — seamlessly enhancing visibility and driving operational excellence.
+- Spearheaded outbound prospecting initiatives that unlocked new market opportunities and fostered strategic partnerships.
+- Championed pipeline management best practices to optimize conversion and maximize revenue impact.
+- Utilized MEDDICC to elevate qualification rigor and deliver best-in-class customer outcomes.
+- Harnessed contract negotiation expertise to secure mutually beneficial agreements and accelerate deal velocity.
+- Drove accurate sales forecasting to empower leadership with actionable insights and enable data-driven decisions.
+
+## Education
+MBA, Marketing, 2019
+=====
+@id SL-C-02
+@trap AI-polished tone (em-dashes, "spearheaded", "streamlined") but genuinely specific: named customers by type, deal sizes, conversion numbers and personal actions. Tests false rejection of polished-but-real resumes. Forecasting is only input to the team forecast.
+@gold Salesforce=D; Outbound prospecting=D; Pipeline management=D; MEDDICC=D; Contract negotiation=D; Sales forecasting=M
+---
+# Nandini Joshi
+Pune, India | nandini.joshi@example.com
+
+## Professional Summary
+Account Executive with 6 years of B2B SaaS experience — focused on finance and operations buyers, disciplined deal qualification and clear commercial communication.
+
+## Professional Experience
+### Account Executive, Ledgerstone Software (2021 - Present)
+- Spearheaded outbound prospecting into mid-market manufacturers and distributors — about 900 targeted sequences a quarter, which produced 38 qualified first meetings and 41 percent of my closed-won revenue.
+- Streamlined pipeline management for a 3.4 million USD book of 32 open opportunities by introducing written exit criteria for every stage; average cycle time fell from 97 to 74 days.
+- Applied MEDDICC on every opportunity above 50,000 USD — identifying the economic buyer by the second call in 80 percent of deals — and lifted win rate from 21 to 29 percent.
+- Led contract negotiation on 9 deals between 60,000 and 240,000 USD, with CFO and procurement; held average discount to 8 percent against a 14 percent team norm.
+- Built Salesforce reports and a stage-conversion dashboard that my manager adopted for team reviews, and kept close dates and amounts current every Friday.
+- Contributed deal-by-deal commit calls to my manager's weekly forecast; the forecast itself is owned by my manager.
+
+### Business Development Representative, Datamark (2018 - 2021)
+- Booked 30 meetings a month in a team of 12; promoted to AE after 24 months.
+
+## Education
+MBA, Symbiosis Institute of Business Management, 2018
+=====
+@id SL-C-03
+@trap Bullets paraphrase the target job description's responsibilities almost line by line (JD mirroring), so they read as on-topic but state no customer, number, deal or personal action.
+@gold Salesforce=M*; Outbound prospecting=M*; Pipeline management=M*; MEDDICC=M*; Contract negotiation=M*; Sales forecasting=M*
+---
+# Prashant Kulkarni
+Mumbai, India | prashant.kulkarni@example.com
+
+## Summary
+Mid-Market Account Executive with 5 years of B2B software sales experience across the full sales cycle.
+
+## Experience
+### Account Executive, Finvista Cloud (2021 - Present)
+- Generated pipeline through outbound prospecting, including email, phone, LinkedIn and referrals, as well as follow-up on inbound leads.
+- Ran discovery conversations and qualified opportunities using MEDDICC: metrics, economic buyer, decision criteria, decision process, identified pain, champion and competition.
+- Managed a pipeline of open opportunities, kept deals moving, and was clear about next steps and risks.
+- Led commercial and contract negotiation, including pricing, terms and procurement and legal reviews.
+- Kept Salesforce up to date so opportunity stages, close dates and amounts could be trusted.
+- Provided a weekly and monthly sales forecast to my manager and defended the numbers in forecast calls.
+
+## Education
+BBA, Pune University, 2020
+=====
+@id SL-C-04
+@trap One AI-polished voice. Concrete evidence for Salesforce, outbound prospecting and contract negotiation; pure fluff for pipeline management, MEDDICC and forecasting. The tone is identical across real and hollow bullets.
+@gold Salesforce=D; Outbound prospecting=D; Pipeline management=M; MEDDICC=M; Contract negotiation=D; Sales forecasting=M
+---
+# Divya Mohan
+Chennai, India | divya.mohan@example.com
+
+## Professional Summary
+Strategic sales professional — adept at turning prospects into long-term customers and committed to continuous improvement.
+
+## Experience
+### Account Executive, Pathfinder Systems (2020 - Present)
+- Built 14 Salesforce reports and a lead-routing flow that cut average first-response time to new demo requests from 9 hours to 40 minutes.
+- Launched a LinkedIn and email outbound motion for the insurance vertical, sending about 650 sequences a quarter and booking 27 meetings that created 1.3 million USD of pipeline.
+- Championed pipeline management best practices to drive transparency and elevate team performance.
+- Leveraged MEDDICC to enhance deal qualification and foster stronger customer alignment.
+- Led contract negotiation on a 2-year, 135,000 USD agreement, giving up a 6 percent discount in exchange for an up-front annual payment.
+- Spearheaded sales forecasting efforts to empower leadership with reliable revenue insights.
+
+## Education
+B.Com, Loyola College, 2019

@@ -1,0 +1,41 @@
+Senior Backend Engineer, Payments Platform
+Paylane Technologies | Pune, India (Hybrid, 3 days in office) | Full-time
+
+About Paylane
+Paylane processes card, UPI and bank-transfer payments for about 4,000 online merchants across India and Southeast Asia. Our platform handles over 6 million transactions a day, and our merchants expect it to be available when their customers check out. We are a 140-person company, and engineering is split into small product squads that own their services from design to production support.
+
+About the role
+We are hiring a Senior Backend Engineer for the Settlements squad. The squad owns the services that reconcile transactions with banks and pay merchants out. You will design and build APIs, keep our data stores healthy under load, and ship changes safely and often. You will work closely with product managers, the data team, and the DevOps/SRE group, and you will be expected to mentor engineers earlier in their careers.
+
+What you will do
+- Design, build and maintain high-throughput REST and event-driven services in Python that power merchant settlements and reconciliation.
+- Build and document APIs with FastAPI, including async handlers, request validation and dependency injection.
+- Model data and tune queries in PostgreSQL; plan and run schema migrations with no downtime on tables with hundreds of millions of rows.
+- Use Redis for caching, rate limiting and short-lived locks to protect downstream bank APIs.
+- Package services with Docker and own the build, test and deploy path through our CI/CD pipelines.
+- Take part in the on-call rotation, investigate production incidents, and write post-incident reviews that lead to real fixes.
+- Review code, write design documents, and help raise engineering standards across the squad.
+- Work with product and finance stakeholders to turn payout rules and compliance requirements into reliable systems.
+
+Required qualifications
+- 5+ years of professional backend development experience, including 3+ years building Python services in production.
+- Python: strong command of the language, including asyncio and testing with pytest.
+- FastAPI: hands-on experience building and operating FastAPI services.
+- PostgreSQL: strong working knowledge of schema design, indexing, query tuning and migrations.
+- Redis: practical experience using Redis for caching or coordination.
+- Docker: experience containerizing and deploying services.
+- CI/CD: experience building or owning automated pipelines (GitHub Actions, GitLab CI, Jenkins or similar) for test and deployment.
+- Clear written communication and the ability to work with distributed teams.
+
+Nice to have
+- Kafka, RabbitMQ or Celery for asynchronous processing.
+- Kubernetes, Terraform, and AWS (ECS, S3, IAM).
+- OAuth 2.0, JWT and role-based access control.
+- Experience with observability tools such as Prometheus, Grafana or Datadog.
+- Experience in payments, fintech or other regulated domains.
+- Experience integrating LLM or third-party APIs with strict rate limits and failure handling.
+
+What we offer
+Competitive salary and ESOPs, a learning budget, health insurance for you and your family, and a team that cares about calm, well-run production systems.
+
+Paylane is an equal opportunity employer. We hire on skills and evidence of work, and we welcome applicants from all backgrounds.

@@ -1,0 +1,113 @@
+=====
+@id DS-B-01
+@trap A-to-Z list of about 50 ML and data tools including all six required skills, with one-line job bullets that name no technology or result.
+@gold Python=M; PyTorch=M; scikit-learn=M; SQL=M; MLflow=M; Docker=M
+---
+# Sanjana Pillai
+Thiruvananthapuram, India | sanjana.pillai@example.com
+
+## Objective
+To leverage my skills in machine learning and data science in a challenging role.
+
+## Technical Skills
+Programming: Python, R, Java, C++, SQL, Scala, Bash
+ML / DL: PyTorch, TensorFlow, Keras, scikit-learn, XGBoost, LightGBM, CatBoost, Hugging Face, OpenCV, spaCy, NLTK
+Data: Pandas, NumPy, SciPy, Spark, Hadoop, Hive, Kafka, Airflow, dbt
+MLOps: MLflow, Docker, Kubernetes, Kubeflow, DVC, Weights & Biases, SageMaker, Vertex AI
+Visualization: Tableau, Power BI, Matplotlib, Seaborn, Plotly
+Databases: PostgreSQL, MySQL, MongoDB, BigQuery, Snowflake
+Concepts: Deep Learning, NLP, Computer Vision, Time Series, Recommender Systems, LLMs, RAG, A/B Testing, Feature Engineering
+
+## Experience
+### Data Scientist, Nexora Analytics (2021 - Present)
+- Built machine learning models for business use cases.
+- Worked with stakeholders to understand requirements.
+- Prepared reports and presentations for management.
+
+### Junior Data Analyst, Zenith BPO (2019 - 2021)
+- Performed data analysis and prepared dashboards.
+
+## Education
+M.Sc., Statistics, University of Kerala, 2019
+=====
+@id DS-B-02
+@trap Certificate spam: 14 online certificates whose titles contain the required skills (PyTorch, MLflow, Docker, SQL, scikit-learn). No work or project bullets use them. Certificates are exposure, not execution.
+@gold Python=M; PyTorch=M; scikit-learn=M; SQL=M; MLflow=M; Docker=M
+---
+# Faizan Qureshi
+Hyderabad, India | faizan.qureshi@example.com
+
+## Career Objective
+Aspiring Machine Learning Engineer with a passion for continuous learning.
+
+## Certifications
+- Python for Data Science and AI (Coursera)
+- Deep Learning with PyTorch: Zero to GANs (Udemy)
+- PyTorch for Deep Learning Bootcamp (Udemy)
+- Machine Learning with scikit-learn (DataCamp)
+- Supervised Learning with scikit-learn (DataCamp)
+- SQL for Data Science (Coursera)
+- The Complete SQL Bootcamp (Udemy)
+- MLflow in Action (Udemy)
+- MLOps Fundamentals (Coursera)
+- Docker for Data Scientists (LinkedIn Learning)
+- Docker and Kubernetes: The Complete Guide (Udemy)
+- Machine Learning A-Z (Udemy)
+- Google Data Analytics Certificate (Coursera)
+- Azure AI Fundamentals (Microsoft)
+
+## Experience
+### Technical Support Executive, Quickserve (2022 - Present)
+- Resolve customer queries and escalate technical issues.
+- Maintain knowledge base articles.
+
+## Education
+B.Sc., Computer Science, Osmania University, 2022
+=====
+@id DS-B-03
+@trap Every bullet ends with a long tool dump (Python, PyTorch, scikit-learn, SQL, MLflow, Docker plus others) bolted onto a vague duty. Tools are named but no specific model, dataset or result is stated.
+@gold Python=M*; PyTorch=M*; scikit-learn=M*; SQL=M*; MLflow=M*; Docker=M*
+---
+# Karthik Subramanian
+Bengaluru, India | karthik.subramanian@example.com
+
+## Profile
+Machine Learning Engineer with expertise in Python, PyTorch, scikit-learn, SQL, MLflow and Docker.
+
+## Experience
+### Machine Learning Engineer, Datavault AI (2020 - Present)
+- Developed machine learning solutions for enterprise clients using Python, PyTorch, scikit-learn, SQL, MLflow, Docker, TensorFlow, Spark and Airflow.
+- Delivered end-to-end ML pipelines leveraging Python, PyTorch, scikit-learn, SQL, MLflow, Docker, Kubernetes and AWS.
+- Implemented data-driven solutions using Python, PyTorch, scikit-learn, SQL, MLflow and Docker to meet business needs.
+
+### Data Scientist, Insightly (2018 - 2020)
+- Created predictive models using Python, scikit-learn, SQL and Docker.
+
+## Education
+M.Tech, Data Science, BITS Pilani, 2018
+=====
+@id DS-B-04
+@trap Self-reported percentage skill bars for every required skill, with one concrete project each for Python and SQL only. Percent bars are not evidence; the two real bullets must still count.
+@gold Python=D; PyTorch=M; scikit-learn=M; SQL=D; MLflow=M; Docker=M
+---
+# Manisha Joshi
+Ahmedabad, India | manisha.joshi@example.com
+
+## Skills (self-assessment)
+Python 95%
+PyTorch 90%
+scikit-learn 90%
+SQL 92%
+MLflow 85%
+Docker 85%
+Statistics 90%
+Communication 95%
+
+## Experience
+### Data Scientist, Gujarat Agri Analytics (2021 - Present)
+- Wrote a Python pipeline that merges satellite NDVI data with farm records for 38,000 farms and flags districts with likely crop stress; agronomists use the weekly output.
+- Rewrote the farm-yield SQL views in PostgreSQL, which brought the weekly refresh from 2 hours to 11 minutes.
+- Member of the data science team working on yield prediction.
+
+## Education
+M.Sc., Statistics, Gujarat University, 2021

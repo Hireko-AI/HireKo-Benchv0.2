@@ -1,0 +1,90 @@
+=====
+@id DS-C-01
+@trap Fully AI-polished and hollow. Polished verbs, em-dashes and big outcomes, but no model, dataset, artifact or number is named for any required skill.
+@gold Python=M; PyTorch=M; scikit-learn=M; SQL=M; MLflow=M; Docker=M
+---
+# Ritika Sharma
+Gurugram, India | ritika.sharma@example.com
+
+## Professional Summary
+Innovative Machine Learning Engineer with a proven track record of transforming data into actionable insights — passionate about harnessing the power of AI to drive business growth.
+
+## Professional Experience
+### Machine Learning Engineer, Orbitrix (2020 - Present)
+- Spearheaded the development of cutting-edge models using Python, seamlessly delivering scalable, data-driven solutions.
+- Leveraged PyTorch to architect state-of-the-art deep learning systems that drove measurable business impact.
+- Utilized scikit-learn to streamline predictive analytics and unlock actionable insights for stakeholders.
+- Harnessed SQL to optimize data workflows and foster data-driven decision-making across teams.
+- Championed MLflow to enhance experiment management and elevate operational excellence.
+- Drove the adoption of Docker to accelerate deployment and ensure seamless collaboration.
+
+## Education
+M.Tech, Computer Science, 2018
+=====
+@id DS-C-02
+@trap AI-polished tone (em-dashes, "spearheaded", "streamlined") but genuinely specific: named models, datasets, scale and results. Tests false rejection of polished-but-real resumes. Docker is only "familiar" (deployment handled by platform).
+@gold Python=D; PyTorch=D; scikit-learn=D; SQL=D; MLflow=D; Docker=M
+---
+# Shruti Kulkarni
+Pune, India | shruti.kulkarni@example.com
+
+## Professional Summary
+Machine learning engineer with 5 years of experience in retail demand forecasting and personalization — focused on models that ship and stay healthy in production.
+
+## Experience
+### Machine Learning Engineer, Shelfwise (2021 - Present)
+- Spearheaded a PyTorch rewrite of the demand-forecasting model — a temporal fusion transformer trained on 3 years of sales for 60,000 SKUs — which reduced weighted MAPE from 31 to 22 percent against the previous gradient-boosting model.
+- Maintained scikit-learn baselines (Ridge and LightGBM through scikit-learn pipelines) that serve as the fallback and the benchmark in every evaluation report.
+- Streamlined feature building by writing 40 SQL transformations on Redshift, including window-function features for promotion lift, run nightly by our scheduler.
+- Introduced MLflow tracking and model registry for the team of six: 250+ runs logged, with a registry stage gate so only models that beat the baseline on holdout data are promoted.
+- Familiar with containerized deployment; the platform team builds and ships the Docker images, and I provide the model artifact and requirements file.
+
+### Data Scientist, Marketly (2019 - 2021)
+- Built a customer-lifetime-value model in Python and scikit-learn for a subscription business.
+
+## Education
+B.Tech, Computer Engineering, VJTI Mumbai, 2019
+=====
+@id DS-C-03
+@trap Bullets paraphrase the target job description's responsibilities almost line by line (JD mirroring), so they read as on-topic but state no concrete model, dataset, number or personal action.
+@gold Python=M*; PyTorch=M*; scikit-learn=M*; SQL=M*; MLflow=M*; Docker=M*
+---
+# Abhinav Saxena
+Noida, India | abhinav.saxena@example.com
+
+## Summary
+Machine Learning Engineer with 4 years of experience taking models from notebook to production.
+
+## Experience
+### Machine Learning Engineer, Cartesian Labs (2021 - Present)
+- Trained, evaluated and improved ranking and recommendation models using PyTorch, and built strong baselines with scikit-learn.
+- Wrote SQL against the warehouse to build training sets, define features and investigate data quality problems.
+- Built reproducible training pipelines in Python and kept experiments organised with MLflow, including tracking runs, comparing results and managing the model registry.
+- Containerized training and serving code with Docker and worked with the platform team to deploy models.
+- Monitored deployed models for drift and quality drops.
+- Explained model behaviour and trade-offs to non-technical stakeholders.
+
+## Education
+B.Tech, Computer Science, JIIT Noida, 2020
+=====
+@id DS-C-04
+@trap One AI-polished voice. Concrete work for Python, PyTorch and SQL; pure fluff for scikit-learn, MLflow and Docker. The tone is identical across real and hollow bullets, so only content distinguishes them.
+@gold Python=D; PyTorch=D; scikit-learn=M; SQL=D; MLflow=M; Docker=M
+---
+# Pooja Venkatesh
+Chennai, India | pooja.venkatesh@example.com
+
+## Professional Summary
+Data scientist adept at translating complex data into impactful solutions — committed to continuous learning and technical excellence.
+
+## Experience
+### Data Scientist, Zenvo Health (2020 - Present)
+- Trained a PyTorch LSTM model on 2.1 million hospital vital-sign records to predict deterioration 6 hours ahead; it reached 0.86 AUROC on the validation hospital and is being piloted in two wards.
+- Wrote the Python data-preparation pipeline that cleans, resamples and labels the vitals; it replaced three notebooks and runs in 25 minutes.
+- Leveraged scikit-learn to deliver robust predictive solutions that enhanced overall analytical capabilities.
+- Authored 30 PostgreSQL queries to extract cohorts and validate labels with clinicians, including a patient-level split that avoids leakage.
+- Championed MLflow to streamline experiment tracking and foster reproducibility across the team.
+- Embraced Docker to accelerate deployment and promote seamless collaboration.
+
+## Education
+M.Sc., Applied Statistics, Anna University, 2020

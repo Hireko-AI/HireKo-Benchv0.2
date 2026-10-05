@@ -1,0 +1,77 @@
+=====
+@id SL-E-01
+@trap Explicit disclaimers. MEDDICC: "my company used SPIN, I have no experience with MEDDICC". Forecasting: "I did not own forecasts; my manager did." Salesforce, outbound, pipeline and negotiation are genuine, so negations must not spread.
+@gold Salesforce=D; Outbound prospecting=D; Pipeline management=D; MEDDICC=N; Contract negotiation=D; Sales forecasting=N
+---
+# Anil Thakur
+Chandigarh, India | anil.thakur@example.com
+
+## Experience
+### Account Executive, Pratham Software (2020 - Present)
+- Prospect into regional banks and NBFCs with about 40 calls and 60 emails a week; this outbound effort produced 18 of my 26 opportunities last year.
+- Manage a pipeline of 28 open deals in Salesforce; update stages and next steps after every customer call, and built the "stalled deals over 30 days" report my manager uses in reviews.
+- Negotiated 7 contracts last year between 25,000 and 90,000 USD, including payment terms and security-review clauses with customer legal teams.
+- Our company trains on SPIN selling. I have no experience with MEDDICC.
+- I did not own forecasting: my manager prepared the forecast from deal updates and I never submitted one myself.
+
+## Education
+BBA, Panjab University, 2019
+=====
+@id SL-E-02
+@trap Near-miss tools and methods. HubSpot (not Salesforce), SPIN and Challenger (not MEDDICC), and inbound lead qualification (not outbound prospecting). Pipeline, negotiation and forecasting are genuine. Tests alias over-matching versus genuine equivalence.
+@gold Salesforce=N*; Outbound prospecting=N*; Pipeline management=D; MEDDICC=N; Contract negotiation=D; Sales forecasting=D
+---
+# Smita Patil
+Pune, India | smita.patil@example.com
+
+## Experience
+### Senior Account Executive, Sparkdesk (2019 - Present)
+- Respond to and qualify inbound demo requests from the website and webinars; about 90 percent of my pipeline originates inbound, and I do not do cold outreach.
+- Manage 30 open opportunities in HubSpot; built the deal-stage view and weekly pipeline report my team uses, and cut average stage time by 20 percent.
+- Qualify with SPIN questions and the Challenger Sale approach, then build a mutual action plan with each buyer.
+- Negotiate pricing and terms on deals of 20,000 to 110,000 USD, including multi-year discounts and non-standard payment terms.
+- Prepare the weekly team forecast from HubSpot data and submit it to the VP of Sales; forecast accuracy was 93 percent last year.
+
+## Education
+BBA, Fergusson College, 2018
+=====
+@id SL-E-03
+@trap Sales Operations specialist. Salesforce, pipeline reporting and forecasting models are genuine (built for the team). Negotiation is only contract-review support; MEDDICC is "currently studying". No outbound at all.
+@gold Salesforce=D; Outbound prospecting=N; Pipeline management=D*; MEDDICC=M; Contract negotiation=M*; Sales forecasting=D
+---
+# Rohan Fernandes
+Mumbai, India | rohan.fernandes@example.com
+
+## Experience
+### Sales Operations Manager, Capsule Commerce (2020 - Present)
+- Administer Salesforce for 40 sellers: built 22 validation rules, 9 flows and the quarterly territory assignment; data completeness on opportunities went from 71 to 96 percent.
+- Own the weekly pipeline hygiene process: flag stale opportunities, check next steps, and report pipeline coverage by region to the VP of Sales.
+- Built the revenue forecasting model (weighted pipeline plus historical conversion by stage); it forecast quarterly bookings within 5 percent in the last 6 quarters.
+- Support Account Executives on contracts by reviewing redlines and escalating non-standard terms to Legal; I do not lead negotiations.
+- Currently studying MEDDICC through an online course in order to help design our qualification fields.
+
+### Sales Analyst, Capsule Commerce (2018 - 2020)
+- Reporting and quota-attainment analysis for the sales team.
+
+## Education
+B.Com, St. Xavier's College Mumbai, 2017
+=====
+@id SL-E-04
+@trap Implausible claims for the stated seniority: an SDR of 8 months claims to have managed a 90 million USD pipeline, negotiated 20 million USD contracts and forecast the whole region. Only the SDR outbound work is believable and concrete.
+@gold Salesforce=M; Outbound prospecting=D; Pipeline management=M*; MEDDICC=M; Contract negotiation=M*; Sales forecasting=N
+---
+# Yash Agrawal
+Indore, India | yash.agrawal@example.com
+
+## Summary
+Sales Development Representative with extensive enterprise sales leadership experience.
+
+## Experience
+### Sales Development Representative, Aurora Tech (Jan 2026 - Present, 8 months)
+- Manage a 90 million USD enterprise pipeline across Asia and Europe.
+- Negotiated 20 million USD multi-year contracts with Fortune 100 customers.
+- Lead outbound prospecting: 55 cold calls and 80 emails a day; booked 19 qualified meetings in 8 months.
+- Salesforce power user; MEDDICC expert.
+
+## Education
+B.Com, Devi Ahilya University, 2025

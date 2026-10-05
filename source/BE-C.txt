@@ -1,0 +1,92 @@
+=====
+@id BE-C-01
+@trap Fully AI-polished and hollow. Polished verbs and em-dashes, impressive-sounding outcomes, but no system, artifact, scale or specific action is named for any required skill.
+@gold Python=M; FastAPI=M; PostgreSQL=M; Docker=M; Redis=M; CI/CD=M
+---
+# Nikhil Varma
+Pune, India | nikhil.varma@example.com
+
+## Professional Summary
+Results-driven Senior Backend Engineer with a proven track record of delivering scalable, high-performance solutions — passionate about driving innovation and fostering a culture of engineering excellence.
+
+## Professional Experience
+### Senior Backend Engineer, Tessera Digital (2020 - Present)
+- Spearheaded the adoption of Python to deliver robust, scalable solutions — seamlessly aligning technical strategy with business objectives.
+- Leveraged FastAPI to architect high-performance services that drove operational excellence and enhanced stakeholder satisfaction.
+- Utilized PostgreSQL to optimize data management strategies, unlocking significant value across the organization.
+- Championed Docker to streamline development workflows and foster cross-functional collaboration.
+- Harnessed Redis to elevate system performance and deliver a best-in-class user experience.
+- Drove CI/CD transformation to accelerate time-to-market and maximize business impact.
+
+## Education
+B.Tech, Computer Science, 2014
+=====
+@id BE-C-02
+@trap Equally AI-polished in tone (em-dashes, "spearheaded", "streamlined") but genuinely concrete: named systems, scale, and personal actions. Tests false rejection of polished-but-real resumes. CI/CD is only "familiar with" pipelines owned by DevOps.
+@gold Python=D; FastAPI=D; PostgreSQL=D; Docker=D; Redis=D; CI/CD=M
+---
+# Ananya Deshpande
+Bengaluru, India | ananya.deshpande@example.com
+
+## Professional Summary
+Backend engineer with 7 years of experience building payment and billing systems — focused on reliability, clean APIs and calm production operations.
+
+## Experience
+### Senior Software Engineer, Quillpay (2021 - Present)
+- Spearheaded the rebuild of the refunds service in Python, replacing a 6,000-line Celery monolith with four async workers; refund processing time dropped from 11 minutes to 90 seconds at the 95th percentile.
+- Architected the merchant-facing refunds API in FastAPI — 17 endpoints with Pydantic validation and idempotency keys — serving about 450 requests per second at peak.
+- Streamlined the slowest PostgreSQL workloads by introducing partial indexes and monthly partitions on a 300-million-row transactions table, cutting the month-end report from 40 minutes to 4.
+- Introduced a Redis cache and token-bucket rate limiter in front of the bank-status API, which absorbed 70 percent of repeat lookups and removed a recurring throttling incident.
+- Containerized six services with Docker multi-stage builds, reducing image sizes by about 65 percent and CI build time by 9 minutes.
+- Familiar with the Jenkins pipelines owned by our DevOps team; I trigger builds and read the logs but do not maintain the pipeline definitions.
+
+### Software Engineer, Marlowe Systems (2018 - 2021)
+- Built invoicing APIs in Python and led the migration of 40 GB of billing data to PostgreSQL.
+
+## Education
+B.E., Information Science, RV College of Engineering, 2018
+=====
+@id BE-C-03
+@trap Bullets are near-verbatim paraphrases of the target job description's responsibilities (mirroring), so they sound on-topic but state no concrete system, number or personal action.
+@gold Python=M*; FastAPI=M*; PostgreSQL=M*; Docker=M*; Redis=M*; CI/CD=M*
+---
+# Siddharth Menon
+Kochi, India | siddharth.menon@example.com
+
+## Summary
+Senior Backend Engineer with 6+ years of professional experience designing and maintaining high-throughput services in payments and fintech.
+
+## Experience
+### Senior Backend Engineer, Finovia (2019 - Present)
+- Designed, built and maintained high-throughput REST and event-driven services in Python that power merchant settlements and reconciliation.
+- Built and documented APIs with FastAPI, including async handlers, request validation and dependency injection.
+- Modelled data and tuned queries in PostgreSQL; planned and ran schema migrations with no downtime.
+- Used Redis for caching, rate limiting and short-lived locks to protect downstream APIs.
+- Packaged services with Docker and owned the build, test and deploy path through CI/CD pipelines.
+- Took part in the on-call rotation and wrote post-incident reviews that led to real fixes.
+- Reviewed code, wrote design documents and helped raise engineering standards.
+
+## Education
+B.Tech, Computer Science, CUSAT, 2018
+=====
+@id BE-C-04
+@trap One document in a single AI-polished voice, with specific work for Python, PostgreSQL and Docker and pure fluff for FastAPI, Redis and CI/CD. Tone gives no hint about which bullets are real; only content does.
+@gold Python=D; FastAPI=M; PostgreSQL=D; Docker=D; Redis=M; CI/CD=M
+---
+# Harleen Kaur
+Mohali, India | harleen.kaur@example.com
+
+## Professional Summary
+Detail-oriented backend engineer — adept at turning complex requirements into reliable, maintainable services.
+
+## Experience
+### Backend Engineer, Orchard Logistics (2020 - Present)
+- Built a Python route-optimization service that groups 25,000 daily deliveries into driver batches; it replaced a spreadsheet process and saved dispatchers about 3 hours a day.
+- Leveraged FastAPI to deliver robust, scalable APIs that enhanced the overall developer experience.
+- Redesigned the PostgreSQL driver-assignment tables, adding a composite index and an archival job that kept the main table under 40 million rows.
+- Harnessed Redis to elevate application performance and streamline data access patterns.
+- Packaged the optimizer and its three workers as Docker images and wrote the Compose file the QA team uses to run the full stack locally.
+- Championed CI/CD best practices to accelerate delivery and foster a culture of quality.
+
+## Education
+B.Tech, Computer Science, Thapar Institute, 2019

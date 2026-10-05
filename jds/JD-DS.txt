@@ -1,0 +1,42 @@
+Machine Learning Engineer, Personalization
+Auriga Commerce | Bengaluru, India (Hybrid) | Full-time
+
+About Auriga
+Auriga runs a marketplace app used by about 18 million shoppers a month. Recommendations, search ranking and fraud scoring all run on models built by our applied ML group. We are 25 people: ML engineers, data scientists and a small platform team.
+
+About the role
+We are looking for a Machine Learning Engineer to take models from notebook to production in the Personalization team. You will train and evaluate models, build the data and feature pipelines they depend on, package them for serving, and monitor them once they are live. This role sits between data science and software engineering, so we value people who write clean code as much as people who understand model behaviour.
+
+What you will do
+- Train, evaluate and improve ranking and recommendation models using PyTorch, and build strong baselines with scikit-learn.
+- Write SQL against our warehouse to build training sets, define features, and investigate data quality problems.
+- Build reproducible training pipelines in Python and keep experiments organised with MLflow: tracking runs, comparing results, and managing the model registry.
+- Containerize training and serving code with Docker and work with the platform team to deploy models.
+- Monitor deployed models for drift and quality drops, and own the follow-up when something degrades.
+- Run offline evaluations and support online A/B tests with product and analytics partners.
+- Write unit tests, document your work, and take part in code review.
+- Explain model behaviour and trade-offs to non-technical stakeholders.
+
+Required qualifications
+- Bachelor's or Master's degree in Computer Science, Statistics, Mathematics or a related field, or equivalent practical experience.
+- 3+ years of applied machine learning experience, including at least one model you took into production.
+- Python: strong programming skills and experience writing production-quality code.
+- PyTorch: hands-on experience building and training models.
+- scikit-learn: experience with classical ML, pipelines and model evaluation.
+- SQL: confident with joins, window functions and query optimisation on large tables.
+- MLflow: experience tracking experiments and managing model versions.
+- Docker: experience packaging code for reproducible training or deployment.
+- Ability to communicate results clearly to a mixed audience.
+
+Nice to have
+- Experience with AWS SageMaker, GCP Vertex AI or Azure ML.
+- Airflow, Prefect or Kubeflow for pipeline orchestration.
+- Spark or other distributed data processing tools.
+- Serving models behind FastAPI or similar frameworks.
+- Familiarity with LLMs, embeddings and vector search.
+- CI/CD for machine learning workflows.
+
+What we offer
+Competitive pay, equity, a conference and learning budget, flexible hours, and the chance to ship models that real shoppers see within weeks.
+
+Auriga is an equal opportunity employer and evaluates candidates on demonstrated skills and work.

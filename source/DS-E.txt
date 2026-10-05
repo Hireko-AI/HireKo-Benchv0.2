@@ -1,0 +1,77 @@
+=====
+@id DS-E-01
+@trap Explicit disclaimers: "no production deployment", "have not used MLflow" and "have not used Docker". Python, PyTorch, scikit-learn and SQL are genuine, so the negations must not spread to them.
+@gold Python=D; PyTorch=D; scikit-learn=D; SQL=D; MLflow=N; Docker=N
+---
+# Gautam Rao
+Bengaluru, India | gautam.rao@example.com
+
+## Experience
+### Applied Scientist, Lexmark Research Labs (2021 - Present)
+- Train transformer-based document classifiers in PyTorch (fine-tuning a distilled BERT on 180,000 labelled invoices); the model reaches 94 percent macro-F1 and replaced a regex pipeline in our internal demo.
+- Use scikit-learn for TF-IDF baselines, calibration and cross-validation in every study.
+- Write SQL against our research Postgres instance to build and audit labelled datasets.
+- Everything is written in Python and runs in notebooks and scripts on our GPU server.
+- My work has not been deployed to production: engineering teams own deployment and I have not been involved. I have not used MLflow (we keep results in spreadsheets) and I have not used Docker.
+
+## Education
+M.Tech, Computer Science, IISc Bangalore, 2021
+=====
+@id DS-E-02
+@trap Near-miss technologies. Strong Python, scikit-learn and SQL, but deep learning is TensorFlow/Keras (not PyTorch), experiment tracking is Weights & Biases (MLflow alternative) and containers are Singularity (not Docker). Tests alias over-matching versus genuine equivalence.
+@gold Python=D; PyTorch=N; scikit-learn=D; SQL=D; MLflow=N*; Docker=N
+---
+# Lavanya Iyer
+Hyderabad, India | lavanya.iyer@example.com
+
+## Experience
+### Senior Data Scientist, Helio Bank (2019 - Present)
+- Built the credit-risk scorecard in Python with scikit-learn pipelines (WoE encoding, logistic regression and gradient boosting) that is used on about 60,000 loan applications a month; Gini rose from 0.52 to 0.61.
+- Trained a TensorFlow/Keras LSTM for transaction-sequence fraud detection; precision at the top 1 percent of alerts improved by 14 points over the rules engine.
+- Wrote SQL on Teradata and BigQuery for features and portfolio monitoring, including a 30-line window-function query for roll-rate analysis.
+- Track all runs with Weights & Biases and package jobs as Singularity images for the bank's HPC cluster.
+
+## Education
+M.Sc., Statistics, University of Hyderabad, 2019
+=====
+@id DS-E-03
+@trap Candidate now manages a team that uses PyTorch and MLflow, completed PyTorch coursework only recently, and observed Docker deployments. Earlier individual contributor work in Python, scikit-learn and SQL is genuine.
+@gold Python=D; PyTorch=M; scikit-learn=D; SQL=D; MLflow=M*; Docker=M
+---
+# Sameer Hussain
+Mumbai, India | sameer.hussain@example.com
+
+## Experience
+### Head of Data Science, Paisawise (2022 - Present)
+- Lead 8 data scientists building credit and collections models. The team uses PyTorch for sequence models and MLflow for tracking; I set priorities and review results but do not write the model code.
+- Observed Docker-based model deployments with the engineering team and approve release checklists.
+- Completed the "Deep Learning with PyTorch" specialization in 2024 to be able to review the team's work better.
+
+### Senior Data Scientist, Paisawise (2018 - 2022)
+- Built the collections-propensity model in Python with scikit-learn (gradient boosting, calibrated probabilities); it improved recoveries by 9 percent in a controlled test.
+- Wrote the SQL feature layer (about 60 queries) on the loans warehouse for all models in the team.
+
+## Education
+B.E., Computer Engineering, University of Mumbai, 2013
+=====
+@id DS-E-04
+@trap Impossible claims. A 4-year career claims "10+ years of PyTorch" (PyTorch released in 2016) and "MLflow since 2012" (released in 2018). Concrete bullets exist only for scikit-learn, SQL and Python; the inflated claims have no supporting work.
+@gold Python=D; PyTorch=M; scikit-learn=D; SQL=D; MLflow=M; Docker=N
+---
+# Ashwin Nambiar
+Kochi, India | ashwin.nambiar@example.com
+
+## Profile
+Deep learning specialist with 10+ years of PyTorch experience, MLflow expert since 2012.
+
+## Experience
+### Data Scientist, Seabreeze Analytics (2022 - Present)
+- Built a scikit-learn random-forest model to predict shipment delays for a freight client; it reduced late-delivery surprises by 17 percent over 6 months.
+- Wrote SQL queries and views on the shipments database (about 25) for operations dashboards and model features.
+- Automated the weekly delay report in Python (pandas); it replaced a manual spreadsheet that took half a day.
+
+### Data Analyst Intern, Seabreeze Analytics (2021 - 2022)
+- Cleaned datasets and supported reporting.
+
+## Education
+B.Tech, Computer Science, CUSAT, 2021

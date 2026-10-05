@@ -1,0 +1,109 @@
+=====
+@id BE-B-01
+@trap Skills section of about 45 items that includes all six required skills, while every experience bullet is generic and names no technology. Classic tech-stack stuffing against a keyword filter.
+@gold Python=M; FastAPI=M; PostgreSQL=M; Docker=M; Redis=M; CI/CD=M
+---
+# Rahul Bhandari
+Noida, India | rahul.bhandari@example.com
+
+## Professional Summary
+Backend developer with 4 years of experience in software development, passionate about building scalable applications.
+
+## Technical Skills
+Languages: Python, Java, Go, C++, JavaScript, TypeScript, Bash, SQL
+Frameworks: FastAPI, Django, Flask, Spring Boot, Express.js, Node.js
+Databases: PostgreSQL, MySQL, MongoDB, Redis, Cassandra, DynamoDB, Elasticsearch
+DevOps: Docker, Kubernetes, Jenkins, GitHub Actions, GitLab CI, Terraform, Ansible, CI/CD
+Cloud: AWS, Azure, GCP
+Messaging: Kafka, RabbitMQ, Celery
+Other: Microservices, REST APIs, GraphQL, gRPC, Agile, Scrum, TDD, OAuth, JWT
+
+## Experience
+### Software Engineer, Intellicore Solutions (2022 - Present)
+- Worked on backend development tasks as assigned by the team lead.
+- Participated in daily standups, sprint planning and retrospectives.
+- Collaborated with cross-functional teams to deliver project requirements.
+- Supported production issues and resolved tickets within SLA.
+
+### Associate Software Engineer, Brightpath Infotech (2020 - 2022)
+- Assisted senior developers in application development and maintenance.
+- Prepared technical documentation and test cases.
+- Contributed to code reviews and knowledge sharing sessions.
+
+## Education
+B.Tech, Information Technology, AKTU, 2020
+=====
+@id BE-B-02
+@trap Self-rated proficiency table (ratings out of 10 and years per skill) for all six required skills, with only two short, non-technical job bullets. Self-assessment is not evidence.
+@gold Python=M; FastAPI=M; PostgreSQL=M; Docker=M; Redis=M; CI/CD=M
+---
+# Ayesha Siddiqui
+Bengaluru, India | ayesha.siddiqui@example.com
+
+## Skill Proficiency
+Python .......... Expert (9/10) - 6 years
+FastAPI ......... Expert (9/10) - 4 years
+PostgreSQL ...... Advanced (8/10) - 5 years
+Docker .......... Advanced (8/10) - 4 years
+Redis ........... Advanced (8/10) - 4 years
+CI/CD ........... Advanced (8/10) - 4 years
+System Design ... Advanced (8/10)
+Problem Solving . Expert (10/10)
+
+## Experience
+### Senior Software Engineer, Nimbus Retail Tech (2020 - Present)
+- Responsible for backend module ownership and delivery.
+- Handled maintenance activities and client escalations.
+
+## Education
+B.E., Electronics and Communication, VTU, 2019
+
+## Achievements
+- Employee of the Quarter, Q3 2022
+- Hackathon finalist, 2021
+=====
+@id BE-B-03
+@trap Every bullet ends with the same tool list (Python, FastAPI, PostgreSQL, Docker, Redis, CI/CD) bolted onto vague duties, plus the same keywords in the summary and a "Core Competencies" block. The tools are named but nothing specific is said about what was done with them.
+@gold Python=M*; FastAPI=M*; PostgreSQL=M*; Docker=M*; Redis=M*; CI/CD=M*
+---
+# Vikash Tiwari
+Gurugram, India | vikash.tiwari@example.com
+
+## Summary
+Backend Engineer skilled in Python, FastAPI, PostgreSQL, Docker, Redis and CI/CD with a strong focus on high-quality, scalable payment systems.
+
+## Core Competencies
+Python | FastAPI | PostgreSQL | Docker | Redis | CI/CD | Microservices | System Design
+
+## Experience
+### Backend Engineer, Ledgerly (2021 - Present)
+- Delivered backend features for the payments platform using Python, FastAPI, PostgreSQL, Docker, Redis and CI/CD.
+- Supported the reconciliation product using Python, FastAPI, PostgreSQL, Docker, Redis and CI/CD best practices.
+- Contributed to platform improvements using Python, FastAPI, PostgreSQL, Docker, Redis and CI/CD.
+
+### Software Developer, Ordinal Systems (2018 - 2021)
+- Developed and maintained web services using Python, PostgreSQL and Docker.
+- Worked on deployment processes using CI/CD tools.
+
+## Education
+B.Tech, Computer Science, Amity University, 2018
+=====
+@id BE-B-04
+@trap Very long technologies list (35 items) next to genuinely specific evidence for only two required skills (Python and PostgreSQL). Stuffing must neither lift the unsupported skills nor hide the real ones.
+@gold Python=D; FastAPI=M; PostgreSQL=D; Docker=M; Redis=M; CI/CD=M
+---
+# Jaspreet Dhillon
+Chandigarh, India | jaspreet.dhillon@example.com
+
+## Technologies
+Python, FastAPI, Django, Flask, PostgreSQL, MySQL, SQLite, Redis, Memcached, Docker, Docker Compose, Kubernetes, Helm, Jenkins, GitHub Actions, CI/CD, AWS, GCP, Linux, Nginx, Gunicorn, Celery, RabbitMQ, Kafka, Pandas, NumPy, Git, REST, gRPC, GraphQL, Prometheus, Grafana, Terraform, Ansible, pytest
+
+## Experience
+### Software Engineer, Datastream Labs (2019 - Present)
+- Rewrote the invoice-matching engine in Python: it now matches 1.4 million invoices per night against bank lines, down from 7 hours to 55 minutes, using chunked processing and a set-based lookup.
+- Redesigned the PostgreSQL schema for the vendor-payments module and rewrote the 12 slowest queries; the 95th-percentile report latency fell from 8 seconds to 1.1 seconds.
+- Part of the platform guild that evaluates new tooling.
+- Participate in on-call and sprint ceremonies.
+
+## Education
+B.Tech, Computer Science, Punjab Technical University, 2019

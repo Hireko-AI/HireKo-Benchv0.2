@@ -1,0 +1,91 @@
+=====
+@id SL-B-01
+@trap Giant "Core Competencies" block of about 40 sales buzzwords including all six required skills, with bullets that are generic duties naming no tool, method, number or customer.
+@gold Salesforce=M; Outbound prospecting=M; Pipeline management=M; MEDDICC=M; Contract negotiation=M; Sales forecasting=M
+---
+# Rajesh Pandey
+Mumbai, India | rajesh.pandey@example.com
+
+## Career Summary
+Dynamic sales professional with 5 years of experience in B2B software sales.
+
+## Core Competencies
+Salesforce | Outbound Prospecting | Pipeline Management | MEDDICC | Contract Negotiation | Sales Forecasting | Lead Generation | Cold Calling | Social Selling | LinkedIn Sales Navigator | Account Management | Upselling | Cross-selling | Solution Selling | Consultative Selling | SPIN Selling | Challenger Sale | Value Selling | Territory Planning | Key Account Management | Relationship Building | Stakeholder Management | Presentation Skills | Public Speaking | Customer Success | Negotiation | Closing | CRM | HubSpot | Gong | Outreach | Salesloft | Market Research | Competitive Analysis | Team Leadership | Time Management
+
+## Experience
+### Senior Sales Executive, Orbis Software (2021 - Present)
+- Responsible for achieving sales targets and revenue goals.
+- Worked closely with the team to meet business objectives.
+- Maintained good relationships with clients and stakeholders.
+- Participated in sales meetings and training programmes.
+
+### Sales Executive, Metro Solutions (2019 - 2021)
+- Handled client queries and supported the sales process.
+
+## Education
+BBA, Mumbai University, 2019
+=====
+@id SL-B-02
+@trap Star-rating skill matrix for all six required skills with only two vague job bullets. Self-ratings are not evidence.
+@gold Salesforce=M; Outbound prospecting=M; Pipeline management=M; MEDDICC=M; Contract negotiation=M; Sales forecasting=M
+---
+# Shweta Kamat
+Pune, India | shweta.kamat@example.com
+
+## Skills (self-rated)
+Salesforce ......................... 5 / 5 stars
+Outbound prospecting ............... 5 / 5 stars
+Pipeline management ................ 5 / 5 stars
+MEDDICC ............................ 4.5 / 5 stars
+Contract negotiation ............... 5 / 5 stars
+Sales forecasting .................. 4.5 / 5 stars
+Communication ...................... 5 / 5 stars
+
+## Experience
+### Account Executive, Skyward Systems (2020 - Present)
+- Managing accounts and ensuring customer satisfaction.
+- Achieving monthly and quarterly targets.
+
+## Education
+MBA, Symbiosis Institute of Business Management, 2020
+=====
+@id SL-B-03
+@trap Every bullet repeats the same six-skill phrase attached to vague activity, plus the same phrase in the summary. Skills are named together in every line, but nothing specific is said about what was done with any of them.
+@gold Salesforce=M*; Outbound prospecting=M*; Pipeline management=M*; MEDDICC=M*; Contract negotiation=M*; Sales forecasting=M*
+---
+# Kavita Rane
+Thane, India | kavita.rane@example.com
+
+## Summary
+Account Executive experienced in Salesforce, outbound prospecting, pipeline management, MEDDICC, contract negotiation and sales forecasting.
+
+## Experience
+### Account Executive, Northgate Technologies (2020 - Present)
+- Drove revenue growth by leveraging Salesforce, outbound prospecting, pipeline management, MEDDICC, contract negotiation and sales forecasting best practices.
+- Delivered exceptional results through Salesforce, outbound prospecting, pipeline management, MEDDICC, contract negotiation and sales forecasting.
+- Strengthened client relationships by applying Salesforce, outbound prospecting, pipeline management, MEDDICC, contract negotiation and sales forecasting expertise.
+
+### Business Development Executive, Primus Corp (2017 - 2020)
+- Supported the sales team using Salesforce, outbound prospecting and pipeline management.
+
+## Education
+B.Com, Mumbai University, 2017
+=====
+@id SL-B-04
+@trap Long competency list plus concrete evidence for only two required skills (Outbound prospecting and Contract negotiation). The other four are listed only. Stuffing must neither lift the unsupported skills nor hide the real ones.
+@gold Salesforce=M; Outbound prospecting=D; Pipeline management=M; MEDDICC=M; Contract negotiation=D; Sales forecasting=M
+---
+# Harsh Vardhan
+Jaipur, India | harsh.vardhan@example.com
+
+## Core Skills
+Salesforce, HubSpot, MEDDICC, Challenger Sale, SPIN Selling, Pipeline Management, Sales Forecasting, Outbound Prospecting, Cold Calling, LinkedIn Sales Navigator, Contract Negotiation, Account Planning, Territory Planning, Key Accounts, Upselling, Gong, Outreach, Salesloft, Public Speaking, Presentation Skills
+
+## Experience
+### Account Executive, Zephyr Cloud (2021 - Present)
+- Built 60 percent of my own pipeline through outbound prospecting to logistics and e-commerce companies: sent about 1,100 targeted sequences last year and booked 52 first meetings, which led to 11 closed deals.
+- Led contract negotiation on a 3-year, 180,000 USD renewal with a retail customer's procurement team, trading a longer term for a smaller discount (7 percent against a 12 percent ask).
+- Member of the sales team that grew revenue by 40 percent last year.
+
+## Education
+BBA, JECRC University, 2020

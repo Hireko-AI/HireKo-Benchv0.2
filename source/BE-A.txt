@@ -1,0 +1,96 @@
+=====
+@id BE-A-01
+@trap Fresher whose only real hands-on work is a 6-month internship. Docker and Redis appear only as "basic" skills or one lab. Tests that lab/coursework exposure stays below real internship work.
+@gold Python=D; FastAPI=D; PostgreSQL=D; Docker=M; Redis=M; CI/CD=N
+---
+# Karan Sethi
+Pune | karan.sethi@example.com
+
+## Education
+B.Tech, Computer Engineering, Savitribai Phule Pune University, 2021-2025. CGPA 8.4
+Relevant coursework: Operating Systems, DBMS, Computer Networks, Cloud Computing
+
+## Internship
+### Backend Intern, Zenkart Payments, Pune (Jan 2025 - Jun 2025)
+- Built three FastAPI endpoints for the merchant onboarding service (create merchant, upload KYC document metadata, fetch status). Wrote the Pydantic request models and 22 pytest cases; my mentor deployed the endpoints to staging.
+- Wrote a Python script that loads daily settlement CSV files (about 2 million rows) into PostgreSQL staging tables with psycopg2. After reading EXPLAIN output I added two indexes that cut the load-time join from roughly 14 minutes to 3.
+- Fixed 9 bugs from the support backlog, mostly input validation and timezone issues.
+
+## Projects
+- Library seat booking app (Python, FastAPI, SQLite) for my college library; about 150 students used it in one semester.
+
+## Skills
+Python, FastAPI, PostgreSQL, SQL, Git, Linux. Basic: Docker, Redis (used once in a Cloud Computing lab).
+=====
+@id BE-A-02
+@trap Bootcamp graduate who lists self-directed, course-derived projects under a "Freelance" experience heading. The text honestly says it follows a course and has no paying clients. Hands-on build, but tutorial-derived: borderline for Demonstrated.
+@gold Python=D*; FastAPI=D*; PostgreSQL=D*; Docker=D*; Redis=M; CI/CD=N
+---
+# Meera Krishnan
+Chennai, India | meera.krishnan@example.com
+
+## Summary
+Career changer (former high-school teacher) who completed a 6-month full-stack bootcamp and now builds backend projects full time while looking for a first developer role.
+
+## Experience
+### Freelance Software Developer (self-employed), Jun 2024 - Present
+- Built a bookstore REST API in Python with FastAPI and PostgreSQL, following the structure of the "FastAPI: The Complete Developer Guide" Udemy course and adapting the catalogue and order tables to a local bookshop's real stock list.
+- Containerized the API with Docker using the course's Compose setup and deployed it to a 5 USD per month VPS. No paying clients yet; the shop owner uses it for stock checks.
+- Wrote pytest tests for the order and inventory routes (about 30 tests).
+
+## Education
+Full-Stack Web Development Bootcamp, Codecrate Academy, 2024
+B.Ed., University of Madras, 2014
+B.Sc. Mathematics, Stella Maris College, 2013
+
+## Skills
+Python, FastAPI, PostgreSQL, Docker, Git, HTML/CSS, JavaScript, Redis, Postman
+=====
+@id BE-A-03
+@trap Engineering manager who has not coded for years. Current role is oversight of teams that use the stack; hands-on evidence is only from an older senior engineer role (Python, Postgres). FastAPI, Docker, Redis and CI/CD are described as team or sponsorship activity, not personal work.
+@gold Python=D; FastAPI=M*; PostgreSQL=D; Docker=M*; Redis=M; CI/CD=M*
+---
+# Priya Raghavan
+Hyderabad, India | priya.raghavan@example.com
+
+## Profile
+Engineering leader with 14 years in payments and marketplaces. I build teams, set technical direction, and keep delivery predictable.
+
+## Experience
+### Engineering Manager, Payments Platform, Corvex Pay (2021 - Present)
+- Lead 9 engineers across three squads that own the settlement and refunds services, which are written in Python with FastAPI and run on PostgreSQL and Redis.
+- Set the architecture direction for the move from a monolith to services and review every major design document.
+- Sponsored the team's move to containerized deployments and to GitHub Actions; the squads did the implementation.
+- Own hiring, performance reviews and the quarterly roadmap with Product.
+
+### Senior Software Engineer, Aldrin Marketplace (2015 - 2019)
+- Wrote Python (Django) services for seller payouts, and tuned PostgreSQL queries on the payouts ledger; a rewrite of the monthly statement query went from 9 minutes to 40 seconds.
+- Designed a double-entry ledger schema in PostgreSQL that finance used for audits for four years.
+- Mentored three junior engineers.
+
+## Education
+B.E., Computer Science, Osmania University, 2011
+=====
+@id BE-A-04
+@trap Real senior engineer with a terse, unpolished, no-metrics resume (lowercase bullets, informal wording). Tests false rejection: plain language with concrete work must still count as Demonstrated. Redis was genuinely never used.
+@gold Python=D; FastAPI=D; PostgreSQL=D; Docker=D; Redis=N; CI/CD=D
+---
+# Sunil Gaikwad
+Nashik / remote | sunil.gaikwad@example.com
+
+## work
+### Backend dev, Fleetline (2020 - now)
+- moved the nightly settlement job from cron + bash to python. runs in docker on ECS now, retries if the bank file is late
+- wrote the driver payout api in fastapi. about 20 routes, async, pydantic models
+- fixed the slow trips table in postgres, added a partial index and split old rows into a monthly partition
+- wrote the github actions workflow: tests, build image, push, deploy to staging, manual click for prod
+- on call every 5th week
+
+### Developer, Shree Infosoft (2016 - 2020)
+- python scripts and flask apps for logistics clients, mysql mostly
+
+## education
+Diploma in computer engineering, 2015
+
+## stack
+python, fastapi, postgres, docker, github actions, aws ecs
