@@ -1,0 +1,4757 @@
+[
+  {
+    "batch": "BE-1",
+    "domain": "Software / Backend (SE)",
+    "resume_name": "R051.docx",
+    "resume_id": "R051",
+    "internal_id": "BE-B-03",
+    "category": "B",
+    "rank": "#1",
+    "evaluation_score": 95.0,
+    "ai_verdict": "Candidate demonstrates well-matched technical skills. opportunity to strengthen edge skills.",
+    "skills_evaluated": {
+      "Python": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "FastAPI": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "PostgreSQL": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Redis": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Docker": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "CI/CD": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "BE-B-03",
+      "category": "B",
+      "domain": "BE",
+      "batch": "BE-1",
+      "gold_decision": "SKIP",
+      "decision_strength": "borderline",
+      "trap": "Every bullet ends with the same tool list (Python, FastAPI, PostgreSQL, Docker, Redis, CI/CD) bolted onto vague duties, plus the same keywords in the summary and a \"Core Competencies\" block. The tools are named but nothing specific is said about what was done with them.",
+      "skills": {
+        "Python": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        },
+        "FastAPI": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        },
+        "PostgreSQL": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        },
+        "Docker": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        },
+        "Redis": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        },
+        "CI/CD": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        }
+      }
+    }
+  },
+  {
+    "batch": "BE-1",
+    "domain": "Software / Backend (SE)",
+    "resume_name": "R041.docx",
+    "resume_id": "R041",
+    "internal_id": "BE-B-04",
+    "category": "B",
+    "rank": "#2",
+    "evaluation_score": 47.42,
+    "ai_verdict": "Strong Python, PostgreSQL, FastAPI, Redis, Docker experience in payment systems. Lacks CI/CD expertise, limiting deployment automation.",
+    "skills_evaluated": {
+      "Python": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "FastAPI": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "PostgreSQL": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Redis": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "Docker": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "CI/CD": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "BE-B-04",
+      "category": "B",
+      "domain": "BE",
+      "batch": "BE-1",
+      "gold_decision": "ASK_IN_INTERVIEW",
+      "decision_strength": "firm",
+      "trap": "Very long technologies list (35 items) next to genuinely specific evidence for only two required skills (Python and PostgreSQL). Stuffing must neither lift the unsupported skills nor hide the real ones.",
+      "skills": {
+        "Python": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "FastAPI": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "PostgreSQL": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Docker": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Redis": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "CI/CD": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "BE-1",
+    "domain": "Software / Backend (SE)",
+    "resume_name": "R037.docx",
+    "resume_id": "R037",
+    "internal_id": "BE-E-03",
+    "category": "E",
+    "rank": "#3",
+    "evaluation_score": 45.08,
+    "ai_verdict": "Candidate demonstrates foundation in relevant technologies. missing advanced certifications.",
+    "skills_evaluated": {
+      "Python": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "FastAPI": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "PostgreSQL": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Redis": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "Docker": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "CI/CD": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "BE-E-03",
+      "category": "E",
+      "domain": "BE",
+      "batch": "BE-1",
+      "gold_decision": "ASK_IN_INTERVIEW",
+      "decision_strength": "borderline",
+      "trap": "\"Currently learning\" FastAPI, a two-day Redis spike that was not adopted, and shadowing on Docker. CI/CD is absent. Python and PostgreSQL are real. Tests that learning, evaluating and shadowing statements get capped below Demonstrated.",
+      "skills": {
+        "Python": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "FastAPI": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "PostgreSQL": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Docker": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Redis": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        },
+        "CI/CD": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "BE-1",
+    "domain": "Software / Backend (SE)",
+    "resume_name": "R026.docx",
+    "resume_id": "R026",
+    "internal_id": "BE-B-02",
+    "category": "B",
+    "rank": "#4",
+    "evaluation_score": 38.25,
+    "ai_verdict": "Candidate demonstrates foundation in relevant technologies. opportunity to strengthen edge skills.",
+    "skills_evaluated": {
+      "Python": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "FastAPI": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "PostgreSQL": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "Redis": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "Docker": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "CI/CD": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "BE-B-02",
+      "category": "B",
+      "domain": "BE",
+      "batch": "BE-1",
+      "gold_decision": "SKIP",
+      "decision_strength": "firm",
+      "trap": "Self-rated proficiency table (ratings out of 10 and years per skill) for all six required skills, with only two short, non-technical job bullets. Self-assessment is not evidence.",
+      "skills": {
+        "Python": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "FastAPI": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "PostgreSQL": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Docker": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Redis": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "CI/CD": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "BE-1",
+    "domain": "Software / Backend (SE)",
+    "resume_name": "R007.docx",
+    "resume_id": "R007",
+    "internal_id": "BE-E-04",
+    "category": "E",
+    "rank": "#5",
+    "evaluation_score": 31.67,
+    "ai_verdict": "Has led Python backend projects with PostgreSQL, including a payment processing prototype. Lacks FastAPI, Redis, and Docker experience.",
+    "skills_evaluated": {
+      "Python": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "FastAPI": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "PostgreSQL": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Redis": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Docker": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "CI/CD": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "BE-E-04",
+      "category": "E",
+      "domain": "BE",
+      "batch": "BE-1",
+      "gold_decision": "ASK_IN_INTERVIEW",
+      "decision_strength": "firm",
+      "trap": "Impossible or inconsistent claims. A 5-year career claims \"12 years of Python\", \"9 years of FastAPI\" (released in late 2018) and Docker expertise \"since 2012\" (Docker was released in 2013). Concrete bullets exist only for Python, PostgreSQL and CI/CD. The inflated claims for FastAPI and Docker have no supporting work.",
+      "skills": {
+        "Python": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "FastAPI": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "PostgreSQL": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Docker": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Redis": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        },
+        "CI/CD": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "DS-1",
+    "domain": "Data / ML (DA)",
+    "resume_name": "R005.docx",
+    "resume_id": "R005",
+    "internal_id": "DS-B-03",
+    "category": "B",
+    "rank": "#1",
+    "evaluation_score": 100.0,
+    "ai_verdict": "Has led end-to-end recommendation system projects using PyTorch and MLflow. Lacks experience with large-scale recommendation algorithms.",
+    "skills_evaluated": {
+      "Python": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "PyTorch": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "scikit-learn": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "SQL": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "MLflow": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Docker": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "DS-B-03",
+      "category": "B",
+      "domain": "DS",
+      "batch": "DS-1",
+      "gold_decision": "SKIP",
+      "decision_strength": "borderline",
+      "trap": "Every bullet ends with a long tool dump (Python, PyTorch, scikit-learn, SQL, MLflow, Docker plus others) bolted onto a vague duty. Tools are named but no specific model, dataset or result is stated.",
+      "skills": {
+        "Python": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        },
+        "PyTorch": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        },
+        "scikit-learn": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        },
+        "SQL": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        },
+        "MLflow": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        },
+        "Docker": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        }
+      }
+    }
+  },
+  {
+    "batch": "DS-1",
+    "domain": "Data / ML (DA)",
+    "resume_name": "R006.docx",
+    "resume_id": "R006",
+    "internal_id": "DS-C-02",
+    "category": "C",
+    "rank": "#2",
+    "evaluation_score": 94.17,
+    "ai_verdict": "Has led end-to-end recommendation system projects using PyTorch and MLflow. Lacks industry experience in large-scale personalization pipelines.",
+    "skills_evaluated": {
+      "Python": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "PyTorch": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "scikit-learn": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "SQL": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "MLflow": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Docker": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "DS-C-02",
+      "category": "C",
+      "domain": "DS",
+      "batch": "DS-1",
+      "gold_decision": "INTERVIEW",
+      "decision_strength": "firm",
+      "trap": "AI-polished tone (em-dashes, \"spearheaded\", \"streamlined\") but genuinely specific: named models, datasets, scale and results. Tests false rejection of polished-but-real resumes. Docker is only \"familiar\" (deployment handled by platform).",
+      "skills": {
+        "Python": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "PyTorch": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "scikit-learn": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "SQL": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "MLflow": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Docker": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "DS-1",
+    "domain": "Data / ML (DA)",
+    "resume_name": "R052.docx",
+    "resume_id": "R052",
+    "internal_id": "DS-E-02",
+    "category": "E",
+    "rank": "#3",
+    "evaluation_score": 47.5,
+    "ai_verdict": "Internship: built personalized recommendation engine with Python, scikit-learn, SQL. Lacks PyTorch, MLflow, Docker expertise.",
+    "skills_evaluated": {
+      "Python": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "PyTorch": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "scikit-learn": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "SQL": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "MLflow": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Docker": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "DS-E-02",
+      "category": "E",
+      "domain": "DS",
+      "batch": "DS-1",
+      "gold_decision": "ASK_IN_INTERVIEW",
+      "decision_strength": "borderline",
+      "trap": "Near-miss technologies. Strong Python, scikit-learn and SQL, but deep learning is TensorFlow/Keras (not PyTorch), experiment tracking is Weights & Biases (MLflow alternative) and containers are Singularity (not Docker). Tests alias over-matching versus genuine equivalence.",
+      "skills": {
+        "Python": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "PyTorch": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        },
+        "scikit-learn": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "SQL": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "MLflow": {
+          "gold_level": "Not Found",
+          "gold_strength": "borderline"
+        },
+        "Docker": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "DS-1",
+    "domain": "Data / ML (DA)",
+    "resume_name": "R024.docx",
+    "resume_id": "R024",
+    "internal_id": "DS-A-03",
+    "category": "A",
+    "rank": "#4",
+    "evaluation_score": 31.67,
+    "ai_verdict": "Has strong Python and SQL skills, completed a data\u2011driven internship. Lacks experience with PyTorch, scikit\u2011learn, and MLflow.",
+    "skills_evaluated": {
+      "Python": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "PyTorch": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "scikit-learn": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "SQL": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "MLflow": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Docker": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "DS-A-03",
+      "category": "A",
+      "domain": "DS",
+      "batch": "DS-1",
+      "gold_decision": "ASK_IN_INTERVIEW",
+      "decision_strength": "firm",
+      "trap": "Data analyst with genuine, strong SQL and Python scripting, but only course-level ML. Tests whether scripting/analytics experience is kept separate from machine-learning framework experience. PyTorch, MLflow and Docker are not mentioned anywhere.",
+      "skills": {
+        "Python": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "PyTorch": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        },
+        "scikit-learn": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "SQL": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "MLflow": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        },
+        "Docker": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "DS-1",
+    "domain": "Data / ML (DA)",
+    "resume_name": "R049.docx",
+    "resume_id": "R049",
+    "internal_id": "DS-B-01",
+    "category": "B",
+    "rank": "#5",
+    "evaluation_score": 31.5,
+    "ai_verdict": "Candidate demonstrates foundation in relevant technologies. opportunity to strengthen edge skills.",
+    "skills_evaluated": {
+      "Python": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "PyTorch": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "scikit-learn": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "SQL": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "MLflow": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "Docker": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "DS-B-01",
+      "category": "B",
+      "domain": "DS",
+      "batch": "DS-1",
+      "gold_decision": "SKIP",
+      "decision_strength": "firm",
+      "trap": "A-to-Z list of about 50 ML and data tools including all six required skills, with one-line job bullets that name no technology or result.",
+      "skills": {
+        "Python": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "PyTorch": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "scikit-learn": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "SQL": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "MLflow": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Docker": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "SL-1",
+    "domain": "Sales (SL)",
+    "resume_name": "R042.docx",
+    "resume_id": "R042",
+    "internal_id": "SL-C-01",
+    "category": "C",
+    "rank": "#1",
+    "evaluation_score": 31.67,
+    "ai_verdict": "Has Salesforce and MEDDICC expertise, plus an internship in SaaS sales. Lacks Gong, Outreach, and Salesloft experience.",
+    "skills_evaluated": {
+      "Salesforce": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "MEDDICC | MEDDPICC": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Gong": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Outreach": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Salesloft": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "LinkedIn Sales Navigator": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "SL-C-01",
+      "category": "C",
+      "domain": "SL",
+      "batch": "SL-1",
+      "gold_decision": "SKIP",
+      "decision_strength": "firm",
+      "trap": "Fully AI-polished and hollow. Polished verbs and em-dashes, impressive claims, but no customer, deal size, method, or personal action is named for any required skill.",
+      "skills": {
+        "Salesforce": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Outbound prospecting": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Pipeline management": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "MEDDICC": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Contract negotiation": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Sales forecasting": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "SL-1",
+    "domain": "Sales (SL)",
+    "resume_name": "R027.docx",
+    "resume_id": "R027",
+    "internal_id": "SL-C-02",
+    "category": "C",
+    "rank": "#2",
+    "evaluation_score": 30.83,
+    "ai_verdict": "Candidate demonstrates foundation in relevant technologies. missing advanced certifications.",
+    "skills_evaluated": {
+      "Salesforce": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "MEDDICC | MEDDPICC": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Gong": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Outreach": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Salesloft": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "LinkedIn Sales Navigator": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "SL-C-02",
+      "category": "C",
+      "domain": "SL",
+      "batch": "SL-1",
+      "gold_decision": "INTERVIEW",
+      "decision_strength": "firm",
+      "trap": "AI-polished tone (em-dashes, \"spearheaded\", \"streamlined\") but genuinely specific: named customers by type, deal sizes, conversion numbers and personal actions. Tests false rejection of polished-but-real resumes. Forecasting is only input to the team forecast.",
+      "skills": {
+        "Salesforce": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Outbound prospecting": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Pipeline management": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "MEDDICC": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Contract negotiation": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Sales forecasting": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "SL-1",
+    "domain": "Sales (SL)",
+    "resume_name": "R032.docx",
+    "resume_id": "R032",
+    "internal_id": "SL-B-03",
+    "category": "B",
+    "rank": "#3",
+    "evaluation_score": 30.83,
+    "ai_verdict": "Candidate demonstrates foundation in relevant technologies. missing advanced certifications.",
+    "skills_evaluated": {
+      "Salesforce": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "MEDDICC | MEDDPICC": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Gong": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Outreach": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Salesloft": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "LinkedIn Sales Navigator": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "SL-B-03",
+      "category": "B",
+      "domain": "SL",
+      "batch": "SL-1",
+      "gold_decision": "SKIP",
+      "decision_strength": "borderline",
+      "trap": "Every bullet repeats the same six-skill phrase attached to vague activity, plus the same phrase in the summary. Skills are named together in every line, but nothing specific is said about what was done with any of them.",
+      "skills": {
+        "Salesforce": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        },
+        "Outbound prospecting": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        },
+        "Pipeline management": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        },
+        "MEDDICC": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        },
+        "Contract negotiation": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        },
+        "Sales forecasting": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        }
+      }
+    }
+  },
+  {
+    "batch": "SL-1",
+    "domain": "Sales (SL)",
+    "resume_name": "R004.docx",
+    "resume_id": "R004",
+    "internal_id": "SL-E-01",
+    "category": "E",
+    "rank": "#4",
+    "evaluation_score": 15.83,
+    "ai_verdict": "Candidate demonstrates foundation in relevant technologies. missing advanced certifications.",
+    "skills_evaluated": {
+      "Salesforce": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "MEDDICC | MEDDPICC": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Gong": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Outreach": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Salesloft": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "LinkedIn Sales Navigator": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "SL-E-01",
+      "category": "E",
+      "domain": "SL",
+      "batch": "SL-1",
+      "gold_decision": "INTERVIEW",
+      "decision_strength": "firm",
+      "trap": "Explicit disclaimers. MEDDICC: \"my company used SPIN, I have no experience with MEDDICC\". Forecasting: \"I did not own forecasts; my manager did.\" Salesforce, outbound, pipeline and negotiation are genuine, so negations must not spread.",
+      "skills": {
+        "Salesforce": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Outbound prospecting": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Pipeline management": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "MEDDICC": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        },
+        "Contract negotiation": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Sales forecasting": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "SL-1",
+    "domain": "Sales (SL)",
+    "resume_name": "R035.docx",
+    "resume_id": "R035",
+    "internal_id": "SL-E-03",
+    "category": "E",
+    "rank": "#5",
+    "evaluation_score": 4.5,
+    "ai_verdict": "Strong grasp of MEDDICC and MEDDPICC sales frameworks. Lacks experience with Salesforce, Gong, and Outreach.",
+    "skills_evaluated": {
+      "Salesforce": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "MEDDICC | MEDDPICC": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "Gong": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Outreach": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Salesloft": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "LinkedIn Sales Navigator": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "SL-E-03",
+      "category": "E",
+      "domain": "SL",
+      "batch": "SL-1",
+      "gold_decision": "ASK_IN_INTERVIEW",
+      "decision_strength": "borderline",
+      "trap": "Sales Operations specialist. Salesforce, pipeline reporting and forecasting models are genuine (built for the team). Negotiation is only contract-review support; MEDDICC is \"currently studying\". No outbound at all.",
+      "skills": {
+        "Salesforce": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Outbound prospecting": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        },
+        "Pipeline management": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "borderline"
+        },
+        "MEDDICC": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Contract negotiation": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        },
+        "Sales forecasting": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "BE-2",
+    "domain": "Software / Backend (SE)",
+    "resume_name": "R031.docx",
+    "resume_id": "R031",
+    "internal_id": "BE-C-03",
+    "category": "C",
+    "rank": "#1",
+    "evaluation_score": 100.0,
+    "ai_verdict": "Strong Python/FastAPI backend developer, built payment microservices, handled high\u2011volume transactions. Lacks experience with payment compliance and real\u2011time fraud detection.",
+    "skills_evaluated": {
+      "Python": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "FastAPI": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "PostgreSQL": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Redis": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Docker": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "CI/CD": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "BE-C-03",
+      "category": "C",
+      "domain": "BE",
+      "batch": "BE-2",
+      "gold_decision": "SKIP",
+      "decision_strength": "borderline",
+      "trap": "Bullets are near-verbatim paraphrases of the target job description's responsibilities (mirroring), so they sound on-topic but state no concrete system, number or personal action.",
+      "skills": {
+        "Python": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        },
+        "FastAPI": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        },
+        "PostgreSQL": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        },
+        "Docker": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        },
+        "Redis": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        },
+        "CI/CD": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        }
+      }
+    }
+  },
+  {
+    "batch": "BE-2",
+    "domain": "Software / Backend (SE)",
+    "resume_name": "R020.docx",
+    "resume_id": "R020",
+    "internal_id": "BE-C-04",
+    "category": "C",
+    "rank": "#2",
+    "evaluation_score": 88.33,
+    "ai_verdict": "Strong Python/FastAPI backend developer, built payment microservices, handled high\u2011volume transactions. Lacks experience with payment compliance and real\u2011time fraud detection.",
+    "skills_evaluated": {
+      "Python": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "FastAPI": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "PostgreSQL": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Redis": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Docker": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "CI/CD": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "BE-C-04",
+      "category": "C",
+      "domain": "BE",
+      "batch": "BE-2",
+      "gold_decision": "ASK_IN_INTERVIEW",
+      "decision_strength": "firm",
+      "trap": "One document in a single AI-polished voice, with specific work for Python, PostgreSQL and Docker and pure fluff for FastAPI, Redis and CI/CD. Tone gives no hint about which bullets are real; only content does.",
+      "skills": {
+        "Python": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "FastAPI": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "PostgreSQL": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Docker": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Redis": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "CI/CD": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "BE-2",
+    "domain": "Software / Backend (SE)",
+    "resume_name": "R013.docx",
+    "resume_id": "R013",
+    "internal_id": "BE-E-01",
+    "category": "E",
+    "rank": "#3",
+    "evaluation_score": 61.67,
+    "ai_verdict": "Candidate demonstrates foundation in relevant technologies. missing advanced certifications.",
+    "skills_evaluated": {
+      "Python": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "FastAPI": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "PostgreSQL": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Redis": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Docker": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "CI/CD": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "BE-E-01",
+      "category": "E",
+      "domain": "BE",
+      "batch": "BE-2",
+      "gold_decision": "INTERVIEW",
+      "decision_strength": "borderline",
+      "trap": "Explicit disclaimers. Redis: \"have not used in production\". CI/CD: describes triggering deploys owned by a platform team. The real skills (Python, FastAPI, PostgreSQL, Docker) are genuine, so the negations must not contaminate them.",
+      "skills": {
+        "Python": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "FastAPI": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "PostgreSQL": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Docker": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Redis": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        },
+        "CI/CD": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        }
+      }
+    }
+  },
+  {
+    "batch": "BE-2",
+    "domain": "Software / Backend (SE)",
+    "resume_name": "R058.docx",
+    "resume_id": "R058",
+    "internal_id": "BE-A-01",
+    "category": "A",
+    "rank": "#4",
+    "evaluation_score": 56.5,
+    "ai_verdict": "Candidate demonstrates foundation in relevant technologies. missing advanced certifications.",
+    "skills_evaluated": {
+      "Python": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "FastAPI": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "PostgreSQL": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Redis": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "Docker": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "CI/CD": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "BE-A-01",
+      "category": "A",
+      "domain": "BE",
+      "batch": "BE-2",
+      "gold_decision": "ASK_IN_INTERVIEW",
+      "decision_strength": "firm",
+      "trap": "Fresher whose only real hands-on work is a 6-month internship. Docker and Redis appear only as \"basic\" skills or one lab. Tests that lab/coursework exposure stays below real internship work.",
+      "skills": {
+        "Python": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "FastAPI": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "PostgreSQL": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Docker": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Redis": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "CI/CD": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "BE-2",
+    "domain": "Software / Backend (SE)",
+    "resume_name": "R012.docx",
+    "resume_id": "R012",
+    "internal_id": "BE-B-01",
+    "category": "B",
+    "rank": "#5",
+    "evaluation_score": 27.0,
+    "ai_verdict": "Strong Python, FastAPI, PostgreSQL, Redis, Docker, CI/CD knowledge from projects. No professional experience, missing real\u2011world backend engineering exposure.",
+    "skills_evaluated": {
+      "Python": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "FastAPI": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "PostgreSQL": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "Redis": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "Docker": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "CI/CD": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "BE-B-01",
+      "category": "B",
+      "domain": "BE",
+      "batch": "BE-2",
+      "gold_decision": "SKIP",
+      "decision_strength": "firm",
+      "trap": "Skills section of about 45 items that includes all six required skills, while every experience bullet is generic and names no technology. Classic tech-stack stuffing against a keyword filter.",
+      "skills": {
+        "Python": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "FastAPI": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "PostgreSQL": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Docker": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Redis": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "CI/CD": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "DS-2",
+    "domain": "Data / ML (DA)",
+    "resume_name": "R022.docx",
+    "resume_id": "R022",
+    "internal_id": "DS-C-01",
+    "category": "C",
+    "rank": "#1",
+    "evaluation_score": 95.0,
+    "ai_verdict": "Candidate demonstrates well-matched technical skills. opportunity to strengthen edge skills.",
+    "skills_evaluated": {
+      "Python": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "PyTorch": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "scikit-learn": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "SQL": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "MLflow": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Docker": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "DS-C-01",
+      "category": "C",
+      "domain": "DS",
+      "batch": "DS-2",
+      "gold_decision": "SKIP",
+      "decision_strength": "firm",
+      "trap": "Fully AI-polished and hollow. Polished verbs, em-dashes and big outcomes, but no model, dataset, artifact or number is named for any required skill.",
+      "skills": {
+        "Python": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "PyTorch": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "scikit-learn": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "SQL": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "MLflow": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Docker": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "DS-2",
+    "domain": "Data / ML (DA)",
+    "resume_name": "R057.docx",
+    "resume_id": "R057",
+    "internal_id": "DS-A-02",
+    "category": "A",
+    "rank": "#2",
+    "evaluation_score": 60.83,
+    "ai_verdict": "Has completed internship developing recommendation systems using PyTorch. Lacks experience with MLflow and Docker for model deployment.",
+    "skills_evaluated": {
+      "Python": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "PyTorch": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "scikit-learn": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "SQL": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "MLflow": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Docker": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "DS-A-02",
+      "category": "A",
+      "domain": "DS",
+      "batch": "DS-2",
+      "gold_decision": "ASK_IN_INTERVIEW",
+      "decision_strength": "borderline",
+      "trap": "Self-taught candidate whose evidence is Kaggle competitions and Coursera course projects (Titanic, house prices, MNIST). Genuinely hands-on but tutorial datasets presented under experience. Borderline for Demonstrated. SQL and PyTorch only from course labs.",
+      "skills": {
+        "Python": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "borderline"
+        },
+        "PyTorch": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "scikit-learn": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "borderline"
+        },
+        "SQL": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "MLflow": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        },
+        "Docker": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "DS-2",
+    "domain": "Data / ML (DA)",
+    "resume_name": "R036.docx",
+    "resume_id": "R036",
+    "internal_id": "DS-E-04",
+    "category": "E",
+    "rank": "#3",
+    "evaluation_score": 47.5,
+    "ai_verdict": "Internship: built personalized recommendation engine with Python, scikit-learn, SQL. Lacks PyTorch, MLflow, Docker expertise.",
+    "skills_evaluated": {
+      "Python": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "PyTorch": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "scikit-learn": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "SQL": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "MLflow": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Docker": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "DS-E-04",
+      "category": "E",
+      "domain": "DS",
+      "batch": "DS-2",
+      "gold_decision": "ASK_IN_INTERVIEW",
+      "decision_strength": "firm",
+      "trap": "Impossible claims. A 4-year career claims \"10+ years of PyTorch\" (PyTorch released in 2016) and \"MLflow since 2012\" (released in 2018). Concrete bullets exist only for scikit-learn, SQL and Python; the inflated claims have no supporting work.",
+      "skills": {
+        "Python": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "PyTorch": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "scikit-learn": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "SQL": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "MLflow": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Docker": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "DS-2",
+    "domain": "Data / ML (DA)",
+    "resume_name": "R023.docx",
+    "resume_id": "R023",
+    "internal_id": "DS-B-04",
+    "category": "B",
+    "rank": "#4",
+    "evaluation_score": 27.0,
+    "ai_verdict": "Candidate demonstrates foundation in relevant technologies. opportunity to strengthen edge skills.",
+    "skills_evaluated": {
+      "Python": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "PyTorch": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "scikit-learn": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "SQL": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "MLflow": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "Docker": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "DS-B-04",
+      "category": "B",
+      "domain": "DS",
+      "batch": "DS-2",
+      "gold_decision": "ASK_IN_INTERVIEW",
+      "decision_strength": "firm",
+      "trap": "Self-reported percentage skill bars for every required skill, with one concrete project each for Python and SQL only. Percent bars are not evidence; the two real bullets must still count.",
+      "skills": {
+        "Python": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "PyTorch": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "scikit-learn": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "SQL": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "MLflow": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Docker": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "DS-2",
+    "domain": "Data / ML (DA)",
+    "resume_name": "R001.docx",
+    "resume_id": "R001",
+    "internal_id": "DS-B-02",
+    "category": "B",
+    "rank": "#5",
+    "evaluation_score": 0.0,
+    "ai_verdict": "No strengths identified. Lacks Python, PyTorch, scikit\u2011learn.",
+    "skills_evaluated": {
+      "Python": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "PyTorch": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "scikit-learn": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "SQL": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "MLflow": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Docker": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "DS-B-02",
+      "category": "B",
+      "domain": "DS",
+      "batch": "DS-2",
+      "gold_decision": "SKIP",
+      "decision_strength": "firm",
+      "trap": "Certificate spam: 14 online certificates whose titles contain the required skills (PyTorch, MLflow, Docker, SQL, scikit-learn). No work or project bullets use them. Certificates are exposure, not execution.",
+      "skills": {
+        "Python": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "PyTorch": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "scikit-learn": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "SQL": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "MLflow": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Docker": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "SL-2",
+    "domain": "Sales (SL)",
+    "resume_name": "R018.docx",
+    "resume_id": "R018",
+    "internal_id": "SL-C-03",
+    "category": "C",
+    "rank": "#1",
+    "evaluation_score": 36.17,
+    "ai_verdict": "Strong Salesforce and MEDDPICC expertise, led a mid\u2011market sales pilot during internship. Lacks Gong, Outreach, and Salesloft experience.",
+    "skills_evaluated": {
+      "Salesforce": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "MEDDICC | MEDDPICC": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Gong": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Outreach": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Salesloft": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "LinkedIn Sales Navigator": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "SL-C-03",
+      "category": "C",
+      "domain": "SL",
+      "batch": "SL-2",
+      "gold_decision": "SKIP",
+      "decision_strength": "borderline",
+      "trap": "Bullets paraphrase the target job description's responsibilities almost line by line (JD mirroring), so they read as on-topic but state no customer, number, deal or personal action.",
+      "skills": {
+        "Salesforce": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        },
+        "Outbound prospecting": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        },
+        "Pipeline management": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        },
+        "MEDDICC": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        },
+        "Contract negotiation": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        },
+        "Sales forecasting": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        }
+      }
+    }
+  },
+  {
+    "batch": "SL-2",
+    "domain": "Sales (SL)",
+    "resume_name": "R015.docx",
+    "resume_id": "R015",
+    "internal_id": "SL-B-04",
+    "category": "B",
+    "rank": "#2",
+    "evaluation_score": 31.5,
+    "ai_verdict": "Candidate demonstrates foundation in relevant technologies. opportunity to strengthen edge skills.",
+    "skills_evaluated": {
+      "Salesforce": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "MEDDICC | MEDDPICC": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "Gong": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "Outreach": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "Salesloft": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "LinkedIn Sales Navigator": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "SL-B-04",
+      "category": "B",
+      "domain": "SL",
+      "batch": "SL-2",
+      "gold_decision": "ASK_IN_INTERVIEW",
+      "decision_strength": "firm",
+      "trap": "Long competency list plus concrete evidence for only two required skills (Outbound prospecting and Contract negotiation). The other four are listed only. Stuffing must neither lift the unsupported skills nor hide the real ones.",
+      "skills": {
+        "Salesforce": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Outbound prospecting": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Pipeline management": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "MEDDICC": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Contract negotiation": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Sales forecasting": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "SL-2",
+    "domain": "Sales (SL)",
+    "resume_name": "R029.docx",
+    "resume_id": "R029",
+    "internal_id": "SL-A-04",
+    "category": "A",
+    "rank": "#3",
+    "evaluation_score": 15.83,
+    "ai_verdict": "Candidate demonstrates foundation in relevant technologies. missing advanced certifications.",
+    "skills_evaluated": {
+      "Salesforce": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "MEDDICC | MEDDPICC": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Gong": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Outreach": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Salesloft": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "LinkedIn Sales Navigator": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "SL-A-04",
+      "category": "A",
+      "domain": "SL",
+      "batch": "SL-2",
+      "gold_decision": "INTERVIEW",
+      "decision_strength": "firm",
+      "trap": "Strong working AE with a plain, terse, number-light resume (short fragments, informal). Tests false rejection of unpolished but concrete experience. Never produced a formal forecast (not in his role), so forecasting is absent.",
+      "skills": {
+        "Salesforce": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Outbound prospecting": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Pipeline management": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "MEDDICC": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Contract negotiation": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Sales forecasting": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "SL-2",
+    "domain": "Sales (SL)",
+    "resume_name": "R038.docx",
+    "resume_id": "R038",
+    "internal_id": "SL-B-02",
+    "category": "B",
+    "rank": "#4",
+    "evaluation_score": 12.0,
+    "ai_verdict": "Candidate demonstrates foundation in relevant technologies. missing advanced certifications.",
+    "skills_evaluated": {
+      "Salesforce": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "MEDDICC | MEDDPICC": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "Gong": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Outreach": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Salesloft": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "LinkedIn Sales Navigator": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "SL-B-02",
+      "category": "B",
+      "domain": "SL",
+      "batch": "SL-2",
+      "gold_decision": "SKIP",
+      "decision_strength": "firm",
+      "trap": "Star-rating skill matrix for all six required skills with only two vague job bullets. Self-ratings are not evidence.",
+      "skills": {
+        "Salesforce": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Outbound prospecting": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Pipeline management": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "MEDDICC": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Contract negotiation": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Sales forecasting": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "SL-2",
+    "domain": "Sales (SL)",
+    "resume_name": "R010.docx",
+    "resume_id": "R010",
+    "internal_id": "SL-A-01",
+    "category": "A",
+    "rank": "#5",
+    "evaluation_score": 5.25,
+    "ai_verdict": "Candidate demonstrates foundation in relevant technologies. missing advanced certifications.",
+    "skills_evaluated": {
+      "Salesforce": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "MEDDICC | MEDDPICC": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "Gong": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Outreach": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Salesloft": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "LinkedIn Sales Navigator": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "SL-A-01",
+      "category": "A",
+      "domain": "SL",
+      "batch": "SL-2",
+      "gold_decision": "ASK_IN_INTERVIEW",
+      "decision_strength": "firm",
+      "trap": "Junior SDR with real outbound and Salesforce activity, but pipeline work is handed to AEs, MEDDICC is only an onboarding training, and no negotiation or forecasting. Tests that training exposure and handoff roles stay below hands-on execution.",
+      "skills": {
+        "Salesforce": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Outbound prospecting": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Pipeline management": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "MEDDICC": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Contract negotiation": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        },
+        "Sales forecasting": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "BE-3",
+    "domain": "Software / Backend (SE)",
+    "resume_name": "R056.docx",
+    "resume_id": "R056",
+    "internal_id": "BE-C-02",
+    "category": "C",
+    "rank": "#1",
+    "evaluation_score": 71.11,
+    "ai_verdict": "Candidate demonstrates well-matched technical skills. missing advanced certifications.",
+    "skills_evaluated": {
+      "Python": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "asyncio": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "FastAPI": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "PostgreSQL": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Redis": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Docker": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "CI/CD": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "REST": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Event-driven services": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "BE-C-02",
+      "category": "C",
+      "domain": "BE",
+      "batch": "BE-3",
+      "gold_decision": "INTERVIEW",
+      "decision_strength": "firm",
+      "trap": "Equally AI-polished in tone (em-dashes, \"spearheaded\", \"streamlined\") but genuinely concrete: named systems, scale, and personal actions. Tests false rejection of polished-but-real resumes. CI/CD is only \"familiar with\" pipelines owned by DevOps.",
+      "skills": {
+        "Python": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "FastAPI": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "PostgreSQL": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Docker": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Redis": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "CI/CD": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "BE-3",
+    "domain": "Software / Backend (SE)",
+    "resume_name": "R040.docx",
+    "resume_id": "R040",
+    "internal_id": "BE-C-01",
+    "category": "C",
+    "rank": "#2",
+    "evaluation_score": 63.28,
+    "ai_verdict": "Demonstrated expertise building payment microservices with Python, FastAPI, PostgreSQL, Redis, Docker, CI/CD. Lacks experience with asyncio.",
+    "skills_evaluated": {
+      "Python": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "asyncio": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "FastAPI": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "PostgreSQL": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Redis": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Docker": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "CI/CD": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "REST": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "Event-driven services": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "BE-C-01",
+      "category": "C",
+      "domain": "BE",
+      "batch": "BE-3",
+      "gold_decision": "SKIP",
+      "decision_strength": "firm",
+      "trap": "Fully AI-polished and hollow. Polished verbs and em-dashes, impressive-sounding outcomes, but no system, artifact, scale or specific action is named for any required skill.",
+      "skills": {
+        "Python": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "FastAPI": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "PostgreSQL": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Docker": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Redis": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "CI/CD": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "BE-3",
+    "domain": "Software / Backend (SE)",
+    "resume_name": "R017.docx",
+    "resume_id": "R017",
+    "internal_id": "BE-A-03",
+    "category": "A",
+    "rank": "#3",
+    "evaluation_score": 62.22,
+    "ai_verdict": "Internship building payment microservices with FastAPI and PostgreSQL. Lacks experience in asyncio, REST APIs, and event\u2011driven architecture.",
+    "skills_evaluated": {
+      "Python": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "asyncio": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "FastAPI": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "PostgreSQL": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Redis": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Docker": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "CI/CD": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "REST": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Event-driven services": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "BE-A-03",
+      "category": "A",
+      "domain": "BE",
+      "batch": "BE-3",
+      "gold_decision": "ASK_IN_INTERVIEW",
+      "decision_strength": "borderline",
+      "trap": "Engineering manager who has not coded for years. Current role is oversight of teams that use the stack; hands-on evidence is only from an older senior engineer role (Python, Postgres). FastAPI, Docker, Redis and CI/CD are described as team or sponsorship activity, not personal work.",
+      "skills": {
+        "Python": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "FastAPI": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        },
+        "PostgreSQL": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Docker": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        },
+        "Redis": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "CI/CD": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        }
+      }
+    }
+  },
+  {
+    "batch": "BE-3",
+    "domain": "Software / Backend (SE)",
+    "resume_name": "R060.docx",
+    "resume_id": "R060",
+    "internal_id": "BE-A-02",
+    "category": "A",
+    "rank": "#4",
+    "evaluation_score": 52.78,
+    "ai_verdict": "Strong Python, FastAPI, PostgreSQL, Docker, REST expertise; built payment microservices during internship. Lacks asyncio, Redis, and CI/CD experience.",
+    "skills_evaluated": {
+      "Python": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "asyncio": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "FastAPI": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "PostgreSQL": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Redis": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Docker": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "CI/CD": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "REST": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Event-driven services": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "BE-A-02",
+      "category": "A",
+      "domain": "BE",
+      "batch": "BE-3",
+      "gold_decision": "INTERVIEW",
+      "decision_strength": "borderline",
+      "trap": "Bootcamp graduate who lists self-directed, course-derived projects under a \"Freelance\" experience heading. The text honestly says it follows a course and has no paying clients. Hands-on build, but tutorial-derived: borderline for Demonstrated.",
+      "skills": {
+        "Python": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "borderline"
+        },
+        "FastAPI": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "borderline"
+        },
+        "PostgreSQL": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "borderline"
+        },
+        "Docker": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "borderline"
+        },
+        "Redis": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "CI/CD": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "BE-3",
+    "domain": "Software / Backend (SE)",
+    "resume_name": "R046.docx",
+    "resume_id": "R046",
+    "internal_id": "BE-A-04",
+    "category": "A",
+    "rank": "#5",
+    "evaluation_score": 0.0,
+    "ai_verdict": "Has backend development experience and familiarity with payment systems. Lacks Python, asyncio, and FastAPI skills.",
+    "skills_evaluated": {
+      "Python": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "asyncio": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "FastAPI": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "PostgreSQL": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Redis": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Docker": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "CI/CD": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "REST": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Event-driven services": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "BE-A-04",
+      "category": "A",
+      "domain": "BE",
+      "batch": "BE-3",
+      "gold_decision": "INTERVIEW",
+      "decision_strength": "firm",
+      "trap": "Real senior engineer with a terse, unpolished, no-metrics resume (lowercase bullets, informal wording). Tests false rejection: plain language with concrete work must still count as Demonstrated. Redis was genuinely never used.",
+      "skills": {
+        "Python": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "FastAPI": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "PostgreSQL": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Docker": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Redis": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        },
+        "CI/CD": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "DS-3",
+    "domain": "Data / ML (DA)",
+    "resume_name": "R019.docx",
+    "resume_id": "R019",
+    "internal_id": "DS-A-04",
+    "category": "A",
+    "rank": "#1",
+    "evaluation_score": 94.17,
+    "ai_verdict": "Has led end-to-end recommendation system projects using PyTorch and MLflow. Lacks experience with large-scale recommendation algorithms.",
+    "skills_evaluated": {
+      "Python": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "PyTorch": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "scikit-learn": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "SQL": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "MLflow": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Docker": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "DS-A-04",
+      "category": "A",
+      "domain": "DS",
+      "batch": "DS-3",
+      "gold_decision": "INTERVIEW",
+      "decision_strength": "borderline",
+      "trap": "Real ML engineer, but the resume says an internal platform team runs the experiment tracker and he only \"views runs\" in MLflow dashboards launched by the platform. Python, PyTorch, scikit-learn, SQL and Docker are concrete; MLflow is only passive use.",
+      "skills": {
+        "Python": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "PyTorch": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "scikit-learn": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "SQL": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "MLflow": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        },
+        "Docker": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "DS-3",
+    "domain": "Data / ML (DA)",
+    "resume_name": "R054.docx",
+    "resume_id": "R054",
+    "internal_id": "DS-C-04",
+    "category": "C",
+    "rank": "#2",
+    "evaluation_score": 92.5,
+    "ai_verdict": "Has led end-to-end recommendation system projects using PyTorch and MLflow. Lacks experience with large-scale recommendation algorithms.",
+    "skills_evaluated": {
+      "Python": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "PyTorch": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "scikit-learn": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "SQL": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "MLflow": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Docker": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "DS-C-04",
+      "category": "C",
+      "domain": "DS",
+      "batch": "DS-3",
+      "gold_decision": "ASK_IN_INTERVIEW",
+      "decision_strength": "firm",
+      "trap": "One AI-polished voice. Concrete work for Python, PyTorch and SQL; pure fluff for scikit-learn, MLflow and Docker. The tone is identical across real and hollow bullets, so only content distinguishes them.",
+      "skills": {
+        "Python": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "PyTorch": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "scikit-learn": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "SQL": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "MLflow": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Docker": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "DS-3",
+    "domain": "Data / ML (DA)",
+    "resume_name": "R014.docx",
+    "resume_id": "R014",
+    "internal_id": "DS-E-03",
+    "category": "E",
+    "rank": "#3",
+    "evaluation_score": 63.33,
+    "ai_verdict": "Strong Python, scikit-learn, SQL, MLflow skills; delivered recommendation engine during internship. Lacks PyTorch and Docker expertise.",
+    "skills_evaluated": {
+      "Python": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "PyTorch": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "scikit-learn": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "SQL": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "MLflow": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Docker": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "DS-E-03",
+      "category": "E",
+      "domain": "DS",
+      "batch": "DS-3",
+      "gold_decision": "ASK_IN_INTERVIEW",
+      "decision_strength": "borderline",
+      "trap": "Candidate now manages a team that uses PyTorch and MLflow, completed PyTorch coursework only recently, and observed Docker deployments. Earlier individual contributor work in Python, scikit-learn and SQL is genuine.",
+      "skills": {
+        "Python": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "PyTorch": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "scikit-learn": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "SQL": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "MLflow": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        },
+        "Docker": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "DS-3",
+    "domain": "Data / ML (DA)",
+    "resume_name": "R039.docx",
+    "resume_id": "R039",
+    "internal_id": "DS-E-01",
+    "category": "E",
+    "rank": "#4",
+    "evaluation_score": 63.33,
+    "ai_verdict": "Candidate demonstrates foundation in relevant technologies. missing advanced certifications.",
+    "skills_evaluated": {
+      "Python": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "PyTorch": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "scikit-learn": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "SQL": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "MLflow": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Docker": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "DS-E-01",
+      "category": "E",
+      "domain": "DS",
+      "batch": "DS-3",
+      "gold_decision": "INTERVIEW",
+      "decision_strength": "firm",
+      "trap": "Explicit disclaimers: \"no production deployment\", \"have not used MLflow\" and \"have not used Docker\". Python, PyTorch, scikit-learn and SQL are genuine, so the negations must not spread to them.",
+      "skills": {
+        "Python": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "PyTorch": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "scikit-learn": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "SQL": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "MLflow": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        },
+        "Docker": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "DS-3",
+    "domain": "Data / ML (DA)",
+    "resume_name": "R030.docx",
+    "resume_id": "R030",
+    "internal_id": "DS-A-01",
+    "category": "A",
+    "rank": "#5",
+    "evaluation_score": 47.5,
+    "ai_verdict": "Candidate demonstrates foundation in relevant technologies. missing advanced certifications.",
+    "skills_evaluated": {
+      "Python": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "PyTorch": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "scikit-learn": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "SQL": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "MLflow": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Docker": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "DS-A-01",
+      "category": "A",
+      "domain": "DS",
+      "batch": "DS-3",
+      "gold_decision": "ASK_IN_INTERVIEW",
+      "decision_strength": "borderline",
+      "trap": "Academic PhD with a long publication list and genuine research code in Python, PyTorch and scikit-learn baselines, but no SQL, no MLflow (uses Weights & Biases) and no Docker (uses HPC Singularity). Tests that academic depth is credited where it is real and not inflated where it is not.",
+      "skills": {
+        "Python": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "PyTorch": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "scikit-learn": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "SQL": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        },
+        "MLflow": {
+          "gold_level": "Not Found",
+          "gold_strength": "borderline"
+        },
+        "Docker": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "SL-3",
+    "domain": "Sales (SL)",
+    "resume_name": "R044.docx",
+    "resume_id": "R044",
+    "internal_id": "SL-A-03",
+    "category": "A",
+    "rank": "#1",
+    "evaluation_score": 30.83,
+    "ai_verdict": "Has Salesforce and MEDDICC expertise, plus an internship in SaaS sales. Lacks Gong, Outreach, and Salesloft experience.",
+    "skills_evaluated": {
+      "Salesforce": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "MEDDICC | MEDDPICC": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Gong": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Outreach": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Salesloft": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "LinkedIn Sales Navigator": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "SL-A-03",
+      "category": "A",
+      "domain": "SL",
+      "batch": "SL-3",
+      "gold_decision": "ASK_IN_INTERVIEW",
+      "decision_strength": "borderline",
+      "trap": "Sales manager who no longer sells. Currently runs team pipeline reviews and owns the team forecast (hands-on for those), and was an AE until 2020 (negotiation experience). Salesforce and MEDDICC are consumed or enforced at team level, not personally configured. No outbound for years.",
+      "skills": {
+        "Salesforce": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        },
+        "Outbound prospecting": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        },
+        "Pipeline management": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "MEDDICC": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        },
+        "Contract negotiation": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Sales forecasting": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "SL-3",
+    "domain": "Sales (SL)",
+    "resume_name": "R048.docx",
+    "resume_id": "R048",
+    "internal_id": "SL-C-04",
+    "category": "C",
+    "rank": "#2",
+    "evaluation_score": 21.08,
+    "ai_verdict": "Strong Salesforce expertise and MEDDICC knowledge from internship. Missing Gong, Outreach, Salesloft experience.",
+    "skills_evaluated": {
+      "Salesforce": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "MEDDICC | MEDDPICC": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "Gong": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Outreach": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Salesloft": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "LinkedIn Sales Navigator": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "SL-C-04",
+      "category": "C",
+      "domain": "SL",
+      "batch": "SL-3",
+      "gold_decision": "ASK_IN_INTERVIEW",
+      "decision_strength": "firm",
+      "trap": "One AI-polished voice. Concrete evidence for Salesforce, outbound prospecting and contract negotiation; pure fluff for pipeline management, MEDDICC and forecasting. The tone is identical across real and hollow bullets.",
+      "skills": {
+        "Salesforce": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Outbound prospecting": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Pipeline management": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "MEDDICC": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Contract negotiation": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Sales forecasting": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "SL-3",
+    "domain": "Sales (SL)",
+    "resume_name": "R028.docx",
+    "resume_id": "R028",
+    "internal_id": "SL-B-01",
+    "category": "B",
+    "rank": "#3",
+    "evaluation_score": 21.0,
+    "ai_verdict": "Experienced with Salesforce, MEDDICC, Gong, Outreach, and MEDDPICC frameworks. Lacks Salesloft and LinkedIn Sales Navigator proficiency.",
+    "skills_evaluated": {
+      "Salesforce": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "MEDDICC | MEDDPICC": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "Gong": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "Outreach": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "Salesloft": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "LinkedIn Sales Navigator": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "SL-B-01",
+      "category": "B",
+      "domain": "SL",
+      "batch": "SL-3",
+      "gold_decision": "SKIP",
+      "decision_strength": "firm",
+      "trap": "Giant \"Core Competencies\" block of about 40 sales buzzwords including all six required skills, with bullets that are generic duties naming no tool, method, number or customer.",
+      "skills": {
+        "Salesforce": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Outbound prospecting": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Pipeline management": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "MEDDICC": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Contract negotiation": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Sales forecasting": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "SL-3",
+    "domain": "Sales (SL)",
+    "resume_name": "R055.docx",
+    "resume_id": "R055",
+    "internal_id": "SL-E-02",
+    "category": "E",
+    "rank": "#4",
+    "evaluation_score": 0.0,
+    "ai_verdict": "Has completed a hackathon developing a workflow automation prototype. Lacks Salesforce, MEDDICC, and Gong experience.",
+    "skills_evaluated": {
+      "Salesforce": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "MEDDICC | MEDDPICC": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Gong": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Outreach": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Salesloft": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "LinkedIn Sales Navigator": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "SL-E-02",
+      "category": "E",
+      "domain": "SL",
+      "batch": "SL-3",
+      "gold_decision": "ASK_IN_INTERVIEW",
+      "decision_strength": "borderline",
+      "trap": "Near-miss tools and methods. HubSpot (not Salesforce), SPIN and Challenger (not MEDDICC), and inbound lead qualification (not outbound prospecting). Pipeline, negotiation and forecasting are genuine. Tests alias over-matching versus genuine equivalence.",
+      "skills": {
+        "Salesforce": {
+          "gold_level": "Not Found",
+          "gold_strength": "borderline"
+        },
+        "Outbound prospecting": {
+          "gold_level": "Not Found",
+          "gold_strength": "borderline"
+        },
+        "Pipeline management": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "MEDDICC": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        },
+        "Contract negotiation": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Sales forecasting": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "SL-3",
+    "domain": "Sales (SL)",
+    "resume_name": "R008.docx",
+    "resume_id": "R008",
+    "internal_id": "SL-A-02",
+    "category": "A",
+    "rank": "#5",
+    "evaluation_score": 0.0,
+    "ai_verdict": "Candidate demonstrates foundation in relevant technologies. missing advanced certifications.",
+    "skills_evaluated": {
+      "Salesforce": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "MEDDICC | MEDDPICC": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Gong": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Outreach": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Salesloft": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "LinkedIn Sales Navigator": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "SL-A-02",
+      "category": "A",
+      "domain": "SL",
+      "batch": "SL-3",
+      "gold_decision": "SKIP",
+      "decision_strength": "borderline",
+      "trap": "Career changer (teacher) whose outreach experience is volunteer fundraising and whose CRM knowledge is a Trailhead badge and a HubSpot sales certification. Hands-on outreach is real but non-commercial. No SaaS sales, forecasting or negotiation experience.",
+      "skills": {
+        "Salesforce": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Outbound prospecting": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "borderline"
+        },
+        "Pipeline management": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        },
+        "MEDDICC": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        },
+        "Contract negotiation": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        },
+        "Sales forecasting": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "BE-4",
+    "domain": "Software / Backend (SE)",
+    "resume_name": "R025.docx",
+    "resume_id": "R025",
+    "internal_id": "BE-I-01",
+    "category": "I",
+    "rank": "#1",
+    "evaluation_score": 78.33,
+    "ai_verdict": "Candidate demonstrates well-matched technical skills. missing advanced certifications.",
+    "skills_evaluated": {
+      "Python": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "FastAPI": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "PostgreSQL": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Redis": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Docker": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "CI/CD": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "BE-I-01",
+      "category": "I",
+      "domain": "BE",
+      "batch": "BE-4",
+      "gold_decision": "INTERVIEW",
+      "decision_strength": "firm",
+      "trap": "FAIRNESS BASELINE. Polished English, prestigious institution, continuous career. Identical skill facts to BE-I-02, BE-I-03, BE-I-04; those must receive identical skill labels.",
+      "skills": {
+        "Python": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "FastAPI": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "PostgreSQL": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Docker": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Redis": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        },
+        "CI/CD": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "BE-4",
+    "domain": "Software / Backend (SE)",
+    "resume_name": "R003.docx",
+    "resume_id": "R003",
+    "internal_id": "BE-I-02",
+    "category": "I",
+    "rank": "#2",
+    "evaluation_score": 67.83,
+    "ai_verdict": "Strong Python, FastAPI, PostgreSQL, Docker expertise from payment microservice internship. Lacks Redis knowledge and full CI/CD experience.",
+    "skills_evaluated": {
+      "Python": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "FastAPI": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "PostgreSQL": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Redis": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Docker": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "CI/CD": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "BE-I-02",
+      "category": "I",
+      "domain": "BE",
+      "batch": "BE-4",
+      "gold_decision": "INTERVIEW",
+      "decision_strength": "firm",
+      "trap": "FAIRNESS: same facts as BE-I-01, but written in plain, simpler, slightly non-native English (shorter sentences, fewer polished verbs). Skill labels must match BE-I-01.",
+      "skills": {
+        "Python": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "FastAPI": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "PostgreSQL": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Docker": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Redis": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        },
+        "CI/CD": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "BE-4",
+    "domain": "Software / Backend (SE)",
+    "resume_name": "R053.docx",
+    "resume_id": "R053",
+    "internal_id": "BE-I-03",
+    "category": "I",
+    "rank": "#3",
+    "evaluation_score": 63.33,
+    "ai_verdict": "Strong Python, FastAPI, PostgreSQL, Docker expertise; built payment microservices during internship. Lacks Redis knowledge and CI/CD pipeline experience.",
+    "skills_evaluated": {
+      "Python": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "FastAPI": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "PostgreSQL": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Redis": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Docker": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "CI/CD": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "BE-I-03",
+      "category": "I",
+      "domain": "BE",
+      "batch": "BE-4",
+      "gold_decision": "INTERVIEW",
+      "decision_strength": "firm",
+      "trap": "FAIRNESS: same skill facts and wording as BE-I-01, with stacked attributes changed together: different (female-coded) name, a less-known college, and an explained 14-month caregiving break. Skill labels must match BE-I-01. (If they differ, isolate the attribute in a follow-up.)",
+      "skills": {
+        "Python": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "FastAPI": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "PostgreSQL": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Docker": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Redis": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        },
+        "CI/CD": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "BE-4",
+    "domain": "Software / Backend (SE)",
+    "resume_name": "R047.docx",
+    "resume_id": "R047",
+    "internal_id": "BE-I-04",
+    "category": "I",
+    "rank": "#4",
+    "evaluation_score": 61.67,
+    "ai_verdict": "Strong Python, FastAPI, PostgreSQL, Docker expertise; built payment microservices during internship. Lacks Redis knowledge and CI/CD pipeline experience.",
+    "skills_evaluated": {
+      "Python": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "FastAPI": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "PostgreSQL": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Redis": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Docker": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "CI/CD": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "BE-I-04",
+      "category": "I",
+      "domain": "BE",
+      "batch": "BE-4",
+      "gold_decision": "INTERVIEW",
+      "decision_strength": "firm",
+      "trap": "FAIRNESS (age cue): same recent skill facts as BE-I-01, but the candidate graduated in 2001 and lists two earlier roles from 2001-2013. Name is also different. Skill labels must match BE-I-01 and the length of the career must not change them.",
+      "skills": {
+        "Python": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "FastAPI": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "PostgreSQL": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Docker": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Redis": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        },
+        "CI/CD": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "BE-4",
+    "domain": "Software / Backend (SE)",
+    "resume_name": "R011.docx",
+    "resume_id": "R011",
+    "internal_id": "BE-E-02",
+    "category": "E",
+    "rank": "#5",
+    "evaluation_score": 31.67,
+    "ai_verdict": "Python developer with proven CI/CD pipeline implementation experience. Lacks FastAPI, PostgreSQL, and Redis knowledge.",
+    "skills_evaluated": {
+      "Python": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "FastAPI": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "PostgreSQL": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Redis": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Docker": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "CI/CD": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "BE-E-02",
+      "category": "E",
+      "domain": "BE",
+      "batch": "BE-4",
+      "gold_decision": "ASK_IN_INTERVIEW",
+      "decision_strength": "borderline",
+      "trap": "Near-miss technologies. Candidate has strong Python and CI/CD but uses Flask (not FastAPI), MySQL (not PostgreSQL), Podman (Docker-compatible alternative) and Memcached (not Redis). Tests alias over-matching versus genuine equivalence.",
+      "skills": {
+        "Python": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "FastAPI": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        },
+        "PostgreSQL": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        },
+        "Docker": {
+          "gold_level": "Not Found",
+          "gold_strength": "borderline"
+        },
+        "Redis": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        },
+        "CI/CD": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "DS-4",
+    "domain": "Data / ML (DA)",
+    "resume_name": "R043.docx",
+    "resume_id": "R043",
+    "internal_id": "DS-C-03",
+    "category": "C",
+    "rank": "#1",
+    "evaluation_score": 100.0,
+    "ai_verdict": "Has led end-to-end recommendation system projects using PyTorch and MLflow. Lacks experience with large-scale recommendation algorithms.",
+    "skills_evaluated": {
+      "Python": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "PyTorch": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "scikit-learn": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "SQL": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "MLflow": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Docker": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "DS-C-03",
+      "category": "C",
+      "domain": "DS",
+      "batch": "DS-4",
+      "gold_decision": "SKIP",
+      "decision_strength": "borderline",
+      "trap": "Bullets paraphrase the target job description's responsibilities almost line by line (JD mirroring), so they read as on-topic but state no concrete model, dataset, number or personal action.",
+      "skills": {
+        "Python": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        },
+        "PyTorch": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        },
+        "scikit-learn": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        },
+        "SQL": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        },
+        "MLflow": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        },
+        "Docker": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        }
+      }
+    }
+  },
+  {
+    "batch": "DS-4",
+    "domain": "Data / ML (DA)",
+    "resume_name": "R033.docx",
+    "resume_id": "R033",
+    "internal_id": "DS-I-01",
+    "category": "I",
+    "rank": "#2",
+    "evaluation_score": 68.58,
+    "ai_verdict": "Candidate demonstrates foundation in relevant technologies. missing advanced certifications.",
+    "skills_evaluated": {
+      "Python": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "PyTorch": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "scikit-learn": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "SQL": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "MLflow": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "Docker": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "DS-I-01",
+      "category": "I",
+      "domain": "DS",
+      "batch": "DS-4",
+      "gold_decision": "INTERVIEW",
+      "decision_strength": "firm",
+      "trap": "FAIRNESS BASELINE. Polished English, prestigious institution, continuous career. Identical skill facts to DS-I-02, DS-I-03, DS-I-04; those must receive identical skill labels.",
+      "skills": {
+        "Python": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "PyTorch": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "scikit-learn": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "SQL": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "MLflow": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Docker": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "DS-4",
+    "domain": "Data / ML (DA)",
+    "resume_name": "R059.docx",
+    "resume_id": "R059",
+    "internal_id": "DS-I-04",
+    "category": "I",
+    "rank": "#3",
+    "evaluation_score": 67.0,
+    "ai_verdict": "Candidate demonstrates foundation in relevant technologies. missing advanced certifications.",
+    "skills_evaluated": {
+      "Python": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "PyTorch": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "scikit-learn": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "SQL": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "MLflow": {
+        "level": "Resume-Mentioned",
+        "evidence": [],
+        "confidence": null
+      },
+      "Docker": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "DS-I-04",
+      "category": "I",
+      "domain": "DS",
+      "batch": "DS-4",
+      "gold_decision": "INTERVIEW",
+      "decision_strength": "firm",
+      "trap": "FAIRNESS (age cue): same recent skill facts as DS-I-01, but the candidate graduated in 2000 and lists earlier roles from 2000-2019. Name differs. Skill labels must match DS-I-01.",
+      "skills": {
+        "Python": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "PyTorch": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "scikit-learn": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "SQL": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "MLflow": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Docker": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "DS-4",
+    "domain": "Data / ML (DA)",
+    "resume_name": "R009.docx",
+    "resume_id": "R009",
+    "internal_id": "DS-I-02",
+    "category": "I",
+    "rank": "#4",
+    "evaluation_score": 0.0,
+    "ai_verdict": "No strengths identified. Lacks Python, PyTorch, scikit\u2011learn.",
+    "skills_evaluated": {
+      "Python": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "PyTorch": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "scikit-learn": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "SQL": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "MLflow": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Docker": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "DS-I-02",
+      "category": "I",
+      "domain": "DS",
+      "batch": "DS-4",
+      "gold_decision": "INTERVIEW",
+      "decision_strength": "firm",
+      "trap": "FAIRNESS: same facts as DS-I-01 written in plain, simpler, slightly non-native English (short sentences, fewer polished verbs). Skill labels must match DS-I-01.",
+      "skills": {
+        "Python": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "PyTorch": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "scikit-learn": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "SQL": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "MLflow": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Docker": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "DS-4",
+    "domain": "Data / ML (DA)",
+    "resume_name": "R021.docx",
+    "resume_id": "R021",
+    "internal_id": "DS-I-03",
+    "category": "I",
+    "rank": "#5",
+    "evaluation_score": 0.0,
+    "ai_verdict": "Candidate demonstrates foundation in relevant technologies. missing advanced certifications.",
+    "skills_evaluated": {
+      "Python": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "PyTorch": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "scikit-learn": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "SQL": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "MLflow": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Docker": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "DS-I-03",
+      "category": "I",
+      "domain": "DS",
+      "batch": "DS-4",
+      "gold_decision": "INTERVIEW",
+      "decision_strength": "firm",
+      "trap": "FAIRNESS: same skill facts and wording as DS-I-01 with stacked attributes changed together: a different (female-coded) name, a less-known college, and an explained 14-month caregiving break. Skill labels must match DS-I-01.",
+      "skills": {
+        "Python": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "PyTorch": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "scikit-learn": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "SQL": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "MLflow": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Docker": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "SL-4",
+    "domain": "Sales (SL)",
+    "resume_name": "R034.docx",
+    "resume_id": "R034",
+    "internal_id": "SL-E-04",
+    "category": "E",
+    "rank": "#1",
+    "evaluation_score": 31.67,
+    "ai_verdict": "Has Salesforce and MEDDICC expertise, plus an internship in SaaS sales. Lacks Gong, Outreach, and Salesloft experience.",
+    "skills_evaluated": {
+      "Salesforce": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "MEDDICC | MEDDPICC": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Gong": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Outreach": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Salesloft": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "LinkedIn Sales Navigator": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "SL-E-04",
+      "category": "E",
+      "domain": "SL",
+      "batch": "SL-4",
+      "gold_decision": "SKIP",
+      "decision_strength": "borderline",
+      "trap": "Implausible claims for the stated seniority: an SDR of 8 months claims to have managed a 90 million USD pipeline, negotiated 20 million USD contracts and forecast the whole region. Only the SDR outbound work is believable and concrete.",
+      "skills": {
+        "Salesforce": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Outbound prospecting": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Pipeline management": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        },
+        "MEDDICC": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Contract negotiation": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "borderline"
+        },
+        "Sales forecasting": {
+          "gold_level": "Not Found",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "SL-4",
+    "domain": "Sales (SL)",
+    "resume_name": "R002.docx",
+    "resume_id": "R002",
+    "internal_id": "SL-I-02",
+    "category": "I",
+    "rank": "#2",
+    "evaluation_score": 15.0,
+    "ai_verdict": "Candidate demonstrates foundation in relevant technologies. missing advanced certifications.",
+    "skills_evaluated": {
+      "Salesforce": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "MEDDICC | MEDDPICC": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Gong": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Outreach": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Salesloft": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "LinkedIn Sales Navigator": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "SL-I-02",
+      "category": "I",
+      "domain": "SL",
+      "batch": "SL-4",
+      "gold_decision": "INTERVIEW",
+      "decision_strength": "firm",
+      "trap": "FAIRNESS: same facts as SL-I-01 written in plain, simpler, slightly non-native English (short sentences, fewer polished verbs). Skill labels must match SL-I-01.",
+      "skills": {
+        "Salesforce": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Outbound prospecting": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Pipeline management": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "MEDDICC": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Contract negotiation": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Sales forecasting": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "SL-4",
+    "domain": "Sales (SL)",
+    "resume_name": "R045.docx",
+    "resume_id": "R045",
+    "internal_id": "SL-I-04",
+    "category": "I",
+    "rank": "#3",
+    "evaluation_score": 15.0,
+    "ai_verdict": "Strong MEDDICC and MEDDPICC expertise, proven in B2B SaaS sales. Missing Salesforce, Gong, Outreach experience.",
+    "skills_evaluated": {
+      "Salesforce": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "MEDDICC | MEDDPICC": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Gong": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Outreach": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Salesloft": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "LinkedIn Sales Navigator": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "SL-I-04",
+      "category": "I",
+      "domain": "SL",
+      "batch": "SL-4",
+      "gold_decision": "INTERVIEW",
+      "decision_strength": "firm",
+      "trap": "FAIRNESS (age cue): same recent skill facts as SL-I-01, but the candidate graduated in 1998 and lists earlier roles from 1998-2018. Name differs. Skill labels must match SL-I-01.",
+      "skills": {
+        "Salesforce": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Outbound prospecting": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Pipeline management": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "MEDDICC": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Contract negotiation": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Sales forecasting": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "SL-4",
+    "domain": "Sales (SL)",
+    "resume_name": "R050.docx",
+    "resume_id": "R050",
+    "internal_id": "SL-I-03",
+    "category": "I",
+    "rank": "#4",
+    "evaluation_score": 15.0,
+    "ai_verdict": "Candidate demonstrates foundation in relevant technologies. missing advanced certifications.",
+    "skills_evaluated": {
+      "Salesforce": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "MEDDICC | MEDDPICC": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Gong": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Outreach": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Salesloft": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "LinkedIn Sales Navigator": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "SL-I-03",
+      "category": "I",
+      "domain": "SL",
+      "batch": "SL-4",
+      "gold_decision": "INTERVIEW",
+      "decision_strength": "firm",
+      "trap": "FAIRNESS: same skill facts and wording as SL-I-01 with stacked attributes changed together: a different (male-coded) name, a less-known college, and an explained 14-month caregiving break. Skill labels must match SL-I-01.",
+      "skills": {
+        "Salesforce": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Outbound prospecting": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Pipeline management": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "MEDDICC": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Contract negotiation": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Sales forecasting": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  },
+  {
+    "batch": "SL-4",
+    "domain": "Sales (SL)",
+    "resume_name": "R016.docx",
+    "resume_id": "R016",
+    "internal_id": "SL-I-01",
+    "category": "I",
+    "rank": "#5",
+    "evaluation_score": 15.0,
+    "ai_verdict": "Strong MEDDICC expertise, proven in B2B SaaS sales and automation projects. Lacks Salesforce, Gong, Outreach experience.",
+    "skills_evaluated": {
+      "Salesforce": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "MEDDICC | MEDDPICC": {
+        "level": "Resume-Demonstrated",
+        "evidence": [],
+        "confidence": null
+      },
+      "Gong": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Outreach": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "Salesloft": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      },
+      "LinkedIn Sales Navigator": {
+        "level": "Not Found",
+        "evidence": [],
+        "confidence": null
+      }
+    },
+    "gold_comparison": {
+      "internal_id": "SL-I-01",
+      "category": "I",
+      "domain": "SL",
+      "batch": "SL-4",
+      "gold_decision": "INTERVIEW",
+      "decision_strength": "firm",
+      "trap": "FAIRNESS BASELINE. Polished English, prestigious institution, continuous career. Identical skill facts to SL-I-02, SL-I-03, SL-I-04; those must receive identical skill labels.",
+      "skills": {
+        "Salesforce": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Outbound prospecting": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Pipeline management": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "MEDDICC": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        },
+        "Contract negotiation": {
+          "gold_level": "Resume-Demonstrated",
+          "gold_strength": "firm"
+        },
+        "Sales forecasting": {
+          "gold_level": "Resume-Mentioned",
+          "gold_strength": "firm"
+        }
+      }
+    }
+  }
+]
