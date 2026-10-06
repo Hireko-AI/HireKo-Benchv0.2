@@ -1,16 +1,16 @@
-# HireKo-Bench Methodology & Evaluation Guide
+# Kriu-Bench Methodology & Evaluation Guide
 
-This document explains the test methodology, dataset design, scoring rules, and baseline metrics used in **HireKo-Bench v0.2**.
+This document explains the test methodology, dataset design, scoring rules, and baseline metrics used in **Kriu-Bench v0.2**.
 
 ---
 
-## 1. Why HireKo-Bench Was Created
+## 1. Why Kriu-Bench Was Created
 
 Most applicant tracking systems (ATS) and LLM wrappers screen resumes in one of two ways:
 1. **Keyword matching:** Searching for tool names (e.g., "Python", "FastAPI", "SQL"). Candidates easily trick this by stuffing 40+ skills in a footer or bullet points.
 2. **Generic LLM prompts:** Asking an LLM if a candidate looks good. These models get easily fooled by polished corporate buzzwords, exaggerated titles, and copied text from the job description.
 
-**HireKo-Bench** measures whether an AI screener can tell the difference between **someone who actually built production systems** versus someone who just copied buzzwords, took a weekend tutorial, or generated their resume with an AI assistant.
+**Kriu-Bench** measures whether an AI screener can tell the difference between **someone who actually built production systems** versus someone who just copied buzzwords, took a weekend tutorial, or generated their resume with an AI assistant.
 
 ---
 
