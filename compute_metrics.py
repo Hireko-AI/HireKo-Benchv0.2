@@ -125,7 +125,7 @@ def generate_table(total_resumes, cat_stats, parsed_count):
             "talenx_ratio": f"*({parsed_count} / {total_resumes})*",
             "expert_pct": f"**{expert_parse_pct}**",
             "expert_ratio": f"*({expert_parse_ratio[1:-1]})*",
-            "notes": f"Parsing resumes without failing on non-standard headers (HireKo dropped {total_resumes - parsed_count} resumes with 0.0 scores; humans read any format)."
+            "notes": f"Parsing resumes without failing on non-standard headers (Kriu dropped {total_resumes - parsed_count} resumes with 0.0 scores; humans read any format)."
         },
         {
             "category": "**Overall Consistency (IRR)**",
@@ -138,8 +138,8 @@ def generate_table(total_resumes, cat_stats, parsed_count):
     ]
 
     md = []
-    md.append(f"### HireKo AI Benchmark vs. Expert Talent Recruiter (N = {total_resumes})\n")
-    md.append("| Evaluation Category | HireKo AI (v0.2 Baseline) | Expert Talent Recruiter *(Research Baseline)* | Notes & Research Basis |")
+    md.append(f"### Kriu AI Benchmark vs. Expert Talent Recruiter (N = {total_resumes})\n")
+    md.append("| Evaluation Category | Kriu AI (v0.2 Baseline) | Expert Talent Recruiter *(Research Baseline)* | Notes & Research Basis |")
     md.append("| :--- | :---: | :---: | :--- |")
     for r in rows:
         md.append(f"| {r['category']} | {r['talenx_pct']}<br>{r['talenx_ratio']} | {r['expert_pct']}<br>{r['expert_ratio']} | {r['notes']} |")
