@@ -14,7 +14,6 @@ Unlike generic keyword search engines or basic LLM evaluators that get easily fo
 | **AI Fluff & JD Mirroring** | **50.0%**<br>*(30 / 60)* | **55.0% – 65.0%**<br>*(33 – 39 / 60)* | Resistance to hollow corporate jargon and JD copy-pasting. Studies show humans struggle to spot AI polish without live interviews. |
 | **Execution vs. Exposure** | **50.0%**<br>*(30 / 60)* | **75.0% – 80.0%**<br>*(45 – 48 / 60)* | Distinguishing real commercial execution from tutorial labs/bootcamps. Recruiters excel here by vetting company credibility. |
 | **Parser / Format Robustness** | **90.0%**<br>*(54 / 60)* | **98.0% – 100.0%**<br>*(59 – 60 / 60)* | Parsing resumes without failing on non-standard headers (Kriu dropped 6 resumes with 0.0 scores; humans read any format). |
-| **Overall Consistency (IRR)** | **95.0% – 100%**<br>*(57 – 60 / 60)* | **60.0% – 70.0%**<br>*(36 – 42 / 60)* | Inter-rater agreement/reproducibility across candidate batches. Human consistency drops significantly after 20–30 resumes due to fatigue. |
 
 > **Reproducibility Note:** This table is generated directly from raw candidate audit traces in `results/full_summary.json` via `python compute_metrics.py`.
 
